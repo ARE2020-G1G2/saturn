@@ -10,7 +10,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| M. Nevot|C. GIULIANI | K.nour | N. Nescio  |
+| P. Bismuth| J. Doe | N.Klich | N. Nescio  |
 
 
 ## Description synthétique du projet
