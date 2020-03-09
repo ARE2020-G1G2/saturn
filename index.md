@@ -1,4 +1,4 @@
-# Les anneaux de Saturne
+## Les anneaux de Saturne
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
@@ -10,7 +10,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| P. Bismuth| J. Doe | K.nour | N. Nescio  |
+| P. Bismuth|C. GIULIANI| A. Onyme  | N. Nescio  |
 
 
 ## Description synthétique du projet
