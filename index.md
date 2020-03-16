@@ -1,10 +1,8 @@
-# Les anneaux de Saturne
-
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+## Les anneaux de Saturne
+Au vue des récentes recherches de la NASA, nous nous posons la question de la disparition des anneaux de Saturne en se basant sur l'origines de ceux-ci et avec l'appluie des recherches scientifiques.
 
 ## Saturn's rings
-
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+In view of NASA's recent research, we are wondering about the disappearance of Saturn's rings according to their origin et with the support of scientific research.
 
 ## Présentation de l'équipe
 
@@ -15,15 +13,15 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique : Les anneaux de Saturne sont-ils voués à disparaître ?**
 
-**Hypothèse principale :**
+**Hypothèse principale :Ils sont voués à disparaître d'ici quelques centaines de milliers d'années.**
 
-**Hypothèses secondaires :** 
+**Hypothèses secondaires :La disparition serait dû aux pluies des anneaux.**
 
-**Objectifs :**
+**Objectifs :Déterminer les facteurs de la disparition des anneaux.**
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation :spectrographie de la densité des anneaux, plus théorique avec les lois physiques rentrant en jeu et la comparaison des anneaux d’aujourd’hui avec les anneaux d’il y a quelques années.**
 
 ## Présentation structurée des résultats
 
