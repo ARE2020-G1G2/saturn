@@ -2,7 +2,7 @@
 Au vue des récentes recherches de la NASA, nous nous posons la question de la disparition des anneaux de Saturne en se basant sur l'origines de ceux-ci et avec l'appluie des recherches scientifiques.
 
 ## Saturn's rings
-In view of NASA's recent research, we are wondering about the disappearance of Saturn's rings according to their origin et with the support of scientific research.
+In view of NASA's recent research, we are wondering about the disappearance of Saturn's rings according to their origin and with the support of scientific research.
 
 ## Présentation de l'équipe
 
