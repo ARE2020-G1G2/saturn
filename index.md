@@ -15,7 +15,7 @@ In view of NASA's recent research, we are wondering about the disappearance of S
 
 **Problématique : Les anneaux de Saturne sont-ils voués à disparaître ?**
 
-**Hypothèse principale :Ils sont voués à disparaître d'ici quelques centaines de milliers d'années.**
+**Hypothèse principale :Ils sont voués à disparaître d'ici quelques centaines de millions d'années.**
 
 **Hypothèses secondaires :La disparition serait dû aux pluies des anneaux.**
 
