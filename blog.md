@@ -1,5 +1,5 @@
                                     
-                                    		SEMAINE 1
+                                    	SEMAINE 1
        
       Cette semaine, nous avons décidé de mettre en place une toute nouvelle une organisation plus adaptée 
       à la situation, confinement dû au coronavirus. Notre organisation consiste à séparer le groupe deux, 
