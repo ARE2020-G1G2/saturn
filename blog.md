@@ -16,7 +16,7 @@
 
 
                                    		 WEEK 5
-						 Friday, March 20 2020
+					Friday, March 20 2020
                                 
        This week, we decide to create a new organization more adapted to the situation, quarantine due to
        the coronavirus. Our organization is to separate the group in two, the first one is composed of 
