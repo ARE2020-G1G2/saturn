@@ -1,5 +1,6 @@
                                     
-                                    	SEMAINE 1
+                                    	SEMAINE 5
+					vendredi 20 Mars 2020
        
       Cette semaine, nous avons décidé de mettre en place une toute nouvelle une organisation plus adaptée 
       à la situation, confinement dû au coronavirus. Notre organisation consiste à séparer le groupe deux, 
@@ -14,7 +15,8 @@
 
 
 
-                                   		 WEEK 1
+                                   		 WEEK 5
+						 Friday, March 20 2020
                                 
        This week, we decide to create a new organization more adapted to the situation, quarantine due to
        the coronavirus. Our organization is to separate the group in two, the first one is composed of 
