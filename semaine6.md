@@ -5,4 +5,5 @@ _Vendredi 27 Mars 2020_
 
 ## WEEK 6
 _Friday, March 27 2020_
+  
   During this week, we created our log book to send
