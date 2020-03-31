@@ -1,5 +1,5 @@
 ## SEMAINE 6
-_Mardi 31 Mars 2020_
+_Vendredi 27 Mars 2020_
 
 
 
@@ -9,4 +9,4 @@ _Mardi 31 Mars 2020_
 
 
 ## WEEK 6
-_
+_Friday, March 27 2020_
