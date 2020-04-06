@@ -21,4 +21,4 @@ _Vendredi 27 Mars 2020_
 ## WEEK 6
 _Friday, March 27 2020_
   
-  During this week, we created our log book to send
+  During this week, we created our log book to send and continued our research especially on the trajectory of a particule. Safiya with her research start to code in python (available in code's part) in order to get a visual of this tragectory.
