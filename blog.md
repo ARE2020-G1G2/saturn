@@ -7,7 +7,7 @@ _vendredi 20 Mars 2020_
 ## WEEK 5
 _Friday, March 20 2020_
                               
-   This week, we decide to create a new organization more adapted to the situation, quarantine due to the coronavirus. Our organization is to separate the group in two, the first one is composed of  Nour and Carla, they gonna manage the blog and also the code allowing the modeling of particles circulating around Saturn. Furthermore, Safiya together with Marie will take care of the physical part with research and specific laws related to the disappearance of Saturn's rings.
+   This week, we decided to create a new organization more adapted to the situation of quarantine due to the coronavirus. Our organization is to separate the group in two, the first one is composed of  Nour and Carla, they're going to manage the blog and also the code allowing the modeling of particles circulating around Saturn. Furthermore, Safiya and Marie will take care of the physical part with the researches and specific laws related to the disappearance of Saturn's rings.
 
 
 
@@ -21,7 +21,7 @@ _Vendredi 27 Mars 2020_
 ## WEEK 6
 _Friday, March 27 2020_
   
-  During this week, we created our log book to send and continued our research especially on the trajectory of a particule. Safiya with her research start to code in python (available in code's part) in order to get a visual of this tragectory.
+  During this week, we created our log book to send and continued our research especially on the trajectory of a particule. Safiya, with her research, starts to code in python (available in code's part) in order to get a visual of this trajectory.
 
 
 
@@ -29,13 +29,13 @@ _Friday, March 27 2020_
 ## SEMAINE 7
 _Vendredi 3 Avril 2020_
 
-   Lors de cette semaine, nous avons avancé sur la partie de codage plus particulièrement. Grâce à nos recherches (sur internet), nous avons modélisé les effets "miroirs magnétiques". Cependant, internet nous fournit très peu de documents intéressants ce qui nous obligeant à coder ces effets dans un champ uniforme.
+   Lors de cette semaine, nous avons avancé sur la partie de codage plus particulièrement. Grâce à nos recherches (sur internet), nous avons modélisé les effets "miroirs magnétiques". Cependant, internet nous fournit très peu de documents intéressants, nous obligeant à coder ces effets dans un champ uniforme.
    
 
 ## WEEK 7
 _Friday, April 3 2020_
 
-   During this week, we have advanced on the coding part more particularly. Thanks to our research (on the internet), nous have modelled "magnetic mirror" effects. However, the internet provides us with very few interesting documents what compels us to code these effects in a uniform field.
+   During this week, we have advanced on the coding part more particularly. Thanks to our researches (on the internet), we have modelled the "magnetic mirror" effects. However, the internet provides us with a very few interesting documents, what compels us to code these effects in an uniform field.
    
    
    
@@ -51,9 +51,9 @@ Malheuresement, malgré tous nos efforts nous n'arrivont pas à obtenir quelque 
 ## WEEK 8
 _Friday, April 10 2020_
 
-   This week, our forces were devoted to research,in particular on the gaps and the division of Kepler which seem essential to us to finalize the trajectory of the rings and thus model their disappearance. 
+   This week, our efforts were devoted to researches, in particular on the gaps and the divisions of the rings which seem essential to us to finalize the trajectory of the rings and thus model their disappearance. 
 You should know that the various gaps present at the heart of the rings are the consequences of the gravitational interaction between satellites and rings.  
-Thus, after a deepening, we arrived at the orbital resonance which requires the equations of epicyclic and out of plane oscillations with a vertical frequency.
+Thus, after an in-depth study, we arrived at the orbital resonance which requires the equations of oscillationin the plane, withthe epicyclic frequency and out of plane oscillations with a vertical frequency.
 Unfortunately, despite all our efforts, we are unable to achieve something consistent.
 
 
@@ -66,18 +66,18 @@ _Vendredi 17 Avril 2020_
 
 Les fonctions à coder sont les suivantes:
 - fonction sur la limite de Roche, qui est la distance à laquelle une particule va se désintégrer en raison des forces de marée de Saturne dont la force d'attraction dépasse l'auto-attraction de la particule;
-- fonction du rayonnement UV, car il éjecte les électrons présents dans les partcules provocant ainsi leur désintégration.
+- fonction du rayonnement UV, car il éjecte les électrons présents dans les particules provocant ainsi leur érosion ainsi qu'un déséquilibre des forces entraînant l'attraction des particules vers l'atmosphère de Saturne.
 
-Nous avons également décidé de solicité un professeur de physique pour la partie des lacunes et des divisions,pendant que Nour de son côté essaye de comprendre et coder cette même partie, vu à la semaine précédente.
+Nous avons également décidé de solicité un professeur de physique pour la partie des lacunes et des divisions, pendant que Nour de son côté essaye de comprendre et coder cette même partie, vu à la semaine précédente.
 
 
 ## WEEK 9
 _Friday, April 17 2020_
 
-This week, we organized a meeting between Safiya and myself, Carla, to further advance our project. This allowed us to establish several tasks, continue the research on Safiya's side and code for Carla.
+This week, we organized a meeting between Safiya and myself, Carla, to keep moving further in our project. This allowed us to establish several tasks, continue the researches on Safiya's side and code for Carla.
 
 The functions to be coded are as follows:
 - function on the Roche limit, which is the distance at which a particle will disintegrate due to the tidal forces of Saturn whose force of attraction exceeds the self-attraction of the particle;
-- the function of UV radiation, because it ejects the electrons present in the particles thus causing their disintegration.
+- the function of UV radiation, because it ejects the electrons present in the particles thus causing their erosions along with a disequilibrium of forces that lead to their attractions toward Saturn's atmosphere.
 
-We also decided to solicit a physics professor for the part of the gaps and the divisions, while Nour on her side tries to understand and code this same part, seen in the previous week.
+We also decided to solicit a physics professor for the part of the gaps and the divisions, while Nour on her side tries to understand and code this same part seen in the previous week.
