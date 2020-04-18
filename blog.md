@@ -68,7 +68,7 @@ Les fonctions à coder sont les suivantes:
 - fonction sur la limite de Roche, qui est la distance à laquelle une particule va se désintégrer en raison des forces de marée de Saturne dont la force d'attraction dépasse l'auto-attraction de la particule;
 - fonction du rayonnement UV, car il éjecte les électrons présents dans les partcules provocant ainsi leur désintégration.
 
-Nous avons également décidé de solicité un professeur de physique pour la partie des lacunes et de la division de Kepler,pendant que Nour de son côté essaye de comprendre et coder cette même partie, vu à la semaine précédente.
+Nous avons également décidé de solicité un professeur de physique pour la partie des lacunes et des divisions,pendant que Nour de son côté essaye de comprendre et coder cette même partie, vu à la semaine précédente.
 
 
 ## WEEK 9
@@ -80,4 +80,4 @@ The functions to be coded are as follows:
 - function on the Roche limit, which is the distance at which a particle will disintegrate due to the tidal forces of Saturn whose force of attraction exceeds the self-attraction of the particle;
 - the function of UV radiation, because it ejects the electrons present in the particles thus causing their disintegration.
 
-We also decided to solicit a physics professor for the part of the gaps and the division of Kepler, while Nour on his side tries to understand and code this same part, seen in the previous week.
+We also decided to solicit a physics professor for the part of the gaps and the divisions, while Nour on her side tries to understand and code this same part, seen in the previous week.
