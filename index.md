@@ -125,6 +125,7 @@ La résolution de l’´équation ci-dessus se traduit alors par trois types de 
 – Les résonances de Lindblad où m(n\ -\ Ωp) = ±κ
  – Les résonances verticales avec m(n\ -\ Ωp) = ±ν
 la notation générale d’une résonance exige que deux corps en mouvements commensurables satellites sont en résonance (m+k+p): m si leur mouvement moyen répond à la condition ![vitesse angulaire](http://latex.codecogs.com/gif.latex?m%5Cmathrm%7B%5COmega%7D_%7Bp%7D%3Dmn%5E%5Cprime&plus;k%5Ckappa%5E%5Cprime&plus;pv%5E%5Cprime)où (n ' - κ ' ) est le taux de précession de l’apside (points extrême de l’orbite) du satellite.
+
 ![égalité](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bn%7D%7Bn%5Cprime%7D%5C%20%5Capprox%5Cfrac%7B%5C%20m%5C%20&plus;%5C%20k%5C%20&plus;%5C%20p%7D%7Bm%5C%20-%5C%201%7D)
 
 Lorsque n ≃ κ ≃ ν dans les anneaux, les résonances verticales et de Lindblad ne représentent que quelques pourcents de l’effet global. Quand ν > n > κ à cause de l’effet d’aplatissement de la planète, les résonances verticales sont situées à l’intérieur des résonances de Lindblad. Enfin, les plus fortes résonances sont les cas horizontaux où k = p = 0 et les cas verticaux où k = 0 et p = 1.
@@ -140,10 +141,11 @@ Les particules composant les anneaux peuvent être chargé par le biais de rayon
  
 #### b. Champ magnétique et trajectoire des particules
 Le champ magnétique de saturne est dipolaire et de symétrie radiale par rapport à l’axe N-S avec le pôle Nord a l’hémisphère Nord contrairement à la Terre et est générée par un effet dynamo de l’hydrogène métallique liquide. Possède un rayon 580 fois plus grand que celui de la Terre bien que son intensité légèrement plus faible que celle-ci (21 µT).
+
 3 forces agissent le long d’une ligne de champ magnétique : 
--La gravité;
--Forces centrifuges : qui agissent pour ramener les grains dans le plan de l'anneau;
--Forces miroir magnétiques : qui agissent pour ramener les grains dans le plan de l'anneau;
+- La gravité;
+- Forces centrifuges : qui agissent pour ramener les grains dans le plan de l'anneau;
+- Forces miroir magnétiques : qui agissent pour ramener les grains dans le plan de l'anneau;
 Le plan de l’anneau étant à 1,62 RS (où 1 RS est le rayon équatorial de Saturne 60,268 km), les particules chargées présent à cet endroit sont à l’équilibre, ils sont stationnaires par rapport au champ Magnétiques et ne subissent que les forces gravitationnelles et centrifuges. Cependant, à des distances inférieures à 1,62 RS la gravité domine et accélèrent les grains chargés vers la planète, le grain est instable. De plus, l’équateur magnétique se trouvant au-dessus du plan de l’anneau, on a une composante du champ magnétique qui point vers l’hémisphère sud. Ainsi à des distances radiales inférieures à 1,525 RS les particules ionisées seront attirées vers le sud. A cela s’ajoute le fait que les grains ont également une distribution de vitesse orthogonal au plan de l’anneau qui les poussent vers le sud ou le nord. Néanmoins, elles seront fréquemment tirées vers le sud et seuls les grains à plus grande vitesse pourront s’échapper vers le Nord.
 
 ![vecteur](http://latex.codecogs.com/gif.latex?%5Cvec%7BF%7D%3Dq%5Cvec%7Bv%7D%5Cland%5Cvec%7BB%7D)
@@ -153,11 +155,13 @@ Equation de maxwell :
 ![equation de maxwell](http://latex.codecogs.com/gif.latex?div%7B%5Cvec%7BB%7D%7D%3D0%5Cleftrightarrow%5Cfrac%7B%5Cpartial%20B_r%7D%7B%5Cpartial%20r%7D&plus;%5Cfrac%7B%5Cpartial%20B_z%7D%7B%5Cpartial%20z%7D%3D0%20%5C%5C%20%5C%5C%20%5Cleftrightarrow%5Cfrac%7B1%7D%7Br%7D%5Cfrac%7B%5Cpartial%5Cleft%28r%5Ccdot%20B_r%5Cright%29%7D%7B%5Cpartial%20r%7D&plus;%5Cfrac%7B%5Cpartial%20Bz%7D%7B%5Cpartial%20z%7D%3D0%20%5C%5C%20%5C%5C%20%5Cleftrightarrow%5Cfrac%7B%5Cpartial%5Cleft%28rB_r%5Cright%29%7D%7B%5Cpartial%20r%7D%3D-%5Cfrac%7Br%5Cpartial%20Bz%7D%7B%5Cpartial%20z%7D%5C%20avec%5C%20Bz%3DB_0%5Cleft%281&plus;%5Cfrac%7Bz%5E2%7D%7Bl%5E2%7D%5Cright%29%20%5C%5C%20%5C%5C%20on%5C%20a%20%3A%20%5Cfrac%7B%5Cpartial%5Cleft%28rB_r%5Cright%29%7D%7B%5Cpartial%20r%7D%3D-rB_0%5Cfrac%7B2z%7D%7Bl%5E2%7D%5Crightarrow%20rB_r%3D-B_0%5Cfrac%7B2z%7D%7Bl%5E2%7D%5Cfrac%7Br%5E2%7D%7B2%7D%5Crightarrow%20B_r%3D%5Cfrac%7B-B_0zr%7D%7Bl%5E2%7D%5C%20%5C%5C%20%5C%5C%20%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%20B_%7Bx%7D%3D-B%5Cfrac%7BB_%7B0%7Dzx%7D%7Bl%5E%7B2%7D%7D%20%5C%5C%20%5C%5C%20B_%7By%7D%3D-B%5Cfrac%7BB_%7B0%7Dzy%7D%7Bl%5E%7B2%7D%7D%20%5Cend%7Bmatrix%7D%5Cright.)
 
 
+PFD: 
 
-PFD: mⅆvxdt=qvyBz+qvzBymⅆvyⅆt=-qvxBz-qvzBxmⅆzⅆt=qB0(vxy-vyx)l2
+![PDF](http://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%20m%5Cfrac%7Bdv_%7Bx%7D%7D%7Bdt%7D%3Dqv_%7By%7DB_%7Bz%7D%20&plus;qv_%7Bz%7DB_%7By%7D%20%5C%5C%20%5C%5C%20m%5Cfrac%7Bdv_%7By%7D%7D%7Bdt%7D%3D-qv_%7Bx%7DB_%7Bz%7D%20-qv_%7Bz%7DB_%7Bx%7D%20%5C%5C%20%5C%5C%20m%5Cfrac%7Bdv_%7By%7D%7D%7Bdt%7D%3Dq%5Cfrac%7BB_%7B0%7D%28v_%7Bx%7Dy-v_%7By%7Dx%29%7D%7Bl%5E%7B2%7D%7D%20%5Cend%7Bmatrix%7D%5Cright.)
 
 #### c. Pluie des anneaux : 
 Les morceaux de glaces sont maintenus en orbite autour de saturne sous l’action de force d’attraction qui les attirent à la planète et à leur vitesse orbitale qui les projette vers l’extérieur. Ainsi, lorsque les particules se chargent selon les phénomènes décrit précédemment, elles sont attirées par les lignes de champs magnétiques qui s’incurve vers la planète au niveau des anneaux, l’équilibre qui les maintenait en orbite est alors rompu et les particules sont entrainées dans la haute atmosphère de saturne ce qui réduit la durée des anneaux à environ 100 millions d’années. L’existences de cette pluie nous est connues grâce à l’étude de l’ionosphère de saturne dont l’observation a été possible grâce au Voyager. En effet, on a pu observer de variations particulières dans cette ionosphère, mais également des variations de densité dans les anneaux ainsi que la présence de trois bandes sombres présentes aux latitudes moyenne du nord.
+
 ->Taux de pluie :
   Etude de l’ionosphère : lorsque les particules glacées atteignent l’ionosphères, elles se vaporisent et l’eau réagit chimiquement avec l’ionosphère En se basant sur l’effet photoélectrique donc de la photoionisation de l’ionosphère composée de H et H2principalement, les recherches ont prédit une densité volumique d’électrons d’environ 10^5 cm^-3. Cependant, lorsque l’on analysa les signaux radio provenant du Pioneer 11, on observe un pic de densité d’environ 10^4cm^-3 soit un ordre de grandeur inférieur à la prédiction. La plus faible densité d’électron fut observée à une latitude de 36° au nord alors que la plus haute densité est observée à 73° au nord. Cela est contre-intuitive tant donnée que selon les saisons, l’ionisation par les rayons UV su soleil sont maximisée à moyenne voir basse altitude. Cette différence entre théorie et observation peut être expliquée par une production d’eau étranger qui conduit à une réduction de la densité d’électron. Des bandes sombres observée
 La présence de bandes sombres, dans les images de Voyager 2, aux latitudes 44°, 46°, 52°, et 64° montrent cet afflux d’eau provenant des anneaux étant donné que les anneaux sont principalement composés de glace. Ces bandes correspondent dans le plan de l’anneau au distance radiale de 1,525RS, 1,62RS, 1,95RS, 3,95RS, respectivement si on les relie au lignes de champs. H3+, l'un des ions les plus abondants de l'ionosphère de Saturne, est produit dans la chaîne de réaction suivante :
