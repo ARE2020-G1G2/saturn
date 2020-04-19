@@ -35,7 +35,8 @@ In view of NASA's recent research, we are wondering about the disappearance of S
 
 ![force gravitationelle](http://latex.codecogs.com/gif.latex?F_%7BG_1%7D%3D-%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D%5C%20et%5C%20F_%7BG_2%7D%3D%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D)
   
-  Accélération d’entraînement :![accélération d'entraînement](http://latex.codecogs.com/gif.latex?a%3D-%5Comega%5E%7B2%7Dd)
+  Accélération d’entraînement :![accélération d'entraînement](http://latex.codecogs.com/gif.latex?%5C%20a%3D-%5Comega%5E%7B2%7Dd)
+  
 Forces inertielles :$$\ F_{I1/I2}=m\omega^2\left(d\pm r\right)
 F_1=F_{G1}+F_{I1}\ et\ F_2=F_{G2}+F_{I2}\ 
 \delta F=F_2-F_1=-GM_sm\left[\frac{1}{\left(d-r\right)^2}-\frac{-1}{\left(d+r\right)^2}\right]+m\omega^2\left(d-r-d-r\right)
