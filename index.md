@@ -70,13 +70,18 @@ La valeur de q définit la répartition de la masse:
 
 ![loi puissance2](http://latex.codecogs.com/gif.latex?n%5Cleft%28x%5Cright%29%3DN_0x%5E%5Cmue%5E%7B%5Cleft%28-%5Cmathrm%7B%5CLambda%7Dx%5E%5Cgamma%5Cright%29%7D)
 
-Il s’agit donc d’un modèle à quatre paramètres pour n(x), avec µ,![lambda](http://latex.codecogs.com/gif.latex?%5Cmathrm%7B%5CLambda%7D), et 𝛾 contrôlant la forme de la distribution et $N_0\$ contrôlant la mise à l’échelle globale.
+Il s’agit donc d’un modèle à quatre paramètres pour n(x), avec µ,![lambda](http://latex.codecogs.com/gif.latex?%5Cmathrm%7B%5CLambda%7D), et 𝛾 contrôlant la forme de la distribution et ![No](http://latex.codecogs.com/gif.latex?N_0)
+contrôlant la mise à l’échelle globale.
 La distribution gamma à trois paramètres plus généraux, qui résulte du réglage 𝛾 = 1, est largement utilisée pour les précipitations de particules de glace :
-$n\left(x\right)=N_0x^\mue^{\left(-\mathrm{\Lambda x}\right)}$
-Dans les distributions exponentielles et gamma, N_0et \mathrm{\Lambda} sont souvent connus respectivement sous le nom de paramètres d’interception et de pente ; m est souvent appelé le paramètre de forme. Une formulation alternative couramment utilisée est donnée par Hansen et Travis (1974) :
-$$\mathbit{x}=\mathbit{r},\mathbit{\mu}=\frac{\mathbf{1}-\mathbf{3}\mathbit{v} {\mathbit{eff}}}{\mathbit{v} {\mathbit{eff}}}\mathbit{et}\ \mathbit{\Lambda}=\frac{\mathbf{1}}{\mathbit{r} {\mathbit{e} {\mathbit{ff}}}\mathbit{\nu} {\mathbit{eff}}}
-\ n\left(r\right)dr\ est\ le\ nombre\ de\ particules\ par\ unité d’aire ayant un rayon entre r et r+dr:
-Ainsi n(r) \propto r^{\mu} \exp \left(\frac{-r}{r_{e f f} v_{e f f}}\right) avec $$ r_{e f f} \equiv \frac{\int_{0}^{\infty} r^{3} n(r) d r}{\int_{0}^{\infty} r^{2} n(r) d r}$$ et la variance effective $$v_{e f f} \equiv \frac{\int_{0}^{\infty}\left(r-r_{e f f}\right)^{2} \pi r^{3} n(r) d r}{r_{e f f}^{2} \int_{0}^{\infty} \pi r^{2} n(r) d r}$$ 
+![distrib gamma](http://latex.codecogs.com/gif.latex?n%5Cleft%28x%5Cright%29%3DN_0x%5E%7B%5Cmu%20%7De%5E%5Cmue%5E%7B%5Cleft%28-%5Cmathrm%7B%5CLambda%20x%7D%5Cright%29%7D)
+
+Dans les distributions exponentielles et gamma, ![gamma et No](http://latex.codecogs.com/gif.latex?N_0%20%5C%20et%20%5C%20%5Cmathrm%7B%5CLambda%7D)
+sont souvent connus respectivement sous le nom de paramètres d’interception et de pente ; m est souvent appelé le paramètre de forme. Une formulation alternative couramment utilisée est donnée par Hansen et Travis (1974) :
+![formule alternative](http://latex.codecogs.com/gif.latex?x%3Dr%2C%5Cmu%20%3D%5Cfrac%7B1-3v_%7Beff%7D%7D%7Bv_%7Beff%7D%7D%20%5C%20et%20%5C%20%5CLambda%20%3D%5Cfrac%7B1%7D%7Br_%7Beff%7Dv_%7Beff%7D%7D)
+![phrase](http://latex.codecogs.com/gif.latex?n%28r%29dr%20%5C%20est%20%5C%20le%20%5C%20nombre%20%5C%20de%20%5C%20particules%5C%20par%20%5C%20unite%20%5C%20d%27%20aire%5C%20ayant%5C%20un%20%5C%20rayon%5C%20entre%20%5C%20r%20%5C%20et%20%5C%20r%20%5C%20&plus;%20%5C%20dr%20%3A)
+
+Ainsi  ![variance effective](http://latex.codecogs.com/gif.latex?n%28r%29%20%5Cpropto%20r%5E%7B%5Cmu%7D%20%5Cexp%20%5Cleft%28%5Cfrac%7B-r%7D%7Br_%7Be%20f%20f%7D%20v_%7Be%20f%20f%7D%7D%5Cright%29%20%5C%20avec%20%5C%20r_%7Be%20f%20f%7D%20%5Cequiv%20%5Cfrac%7B%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%20r%5E%7B3%7D%20n%28r%29%20d%20r%7D%7B%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%20r%5E%7B2%7D%20n%28r%29%20d%20r%7D%5C%5C%20%5C%5C%20et%20%5C%20la%20%5C%20variance%20%5C%20effective%20%5C%20v_%7Be%20f%20f%7D%20%5Cequiv%20%5Cfrac%7B%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%5Cleft%28r-r_%7Be%20f%20f%7D%5Cright%29%5E%7B2%7D%20%5Cpi%20r%5E%7B3%7D%20n%28r%29%20d%20r%7D%7Br_%7Be%20f%20f%7D%5E%7B2%7D%20%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%20%5Cpi%20r%5E%7B2%7D%20n%28r%29%20d%20r%7D)
+
 #### b. Trajectoire
   Les particules composant les anneaux suivent une trajectoire quasi-circulaire sous l’action d’une force gravitationnelle exercée par saturne. Ainsi on peut modéliser leurs trajectoires de la façon suivante : On considère une particule de l’anneau de masse m. Bilan des forces extérieurs exercées sur cette particule : $$\vec{F_G}=-\frac{GM_sm}{r^2}\vec{u_r}
 \ avec\ M_{S\ }la\ masse\ de\ saturne\ ,\ G\ la\ constante\ gravitationnelle\  et\ r\ la\ distance\ entre\ la\ particules\ et\ le\ centre\ de\ Saturne$$
