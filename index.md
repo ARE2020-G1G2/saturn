@@ -86,13 +86,14 @@ Ainsi
 ![variance effective](http://latex.codecogs.com/gif.latex?n%28r%29%20%5Cpropto%20r%5E%7B%5Cmu%7D%20%5Cexp%20%5Cleft%28%5Cfrac%7B-r%7D%7Br_%7Be%20f%20f%7D%20v_%7Be%20f%20f%7D%7D%5Cright%29%20%5C%20avec%20%5C%20r_%7Be%20f%20f%7D%20%5Cequiv%20%5Cfrac%7B%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%20r%5E%7B3%7D%20n%28r%29%20d%20r%7D%7B%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%20r%5E%7B2%7D%20n%28r%29%20d%20r%7D%5C%5C%20%5C%5C%20et%20%5C%20la%20%5C%20variance%20%5C%20effective%20%5C%20v_%7Be%20f%20f%7D%20%5Cequiv%20%5Cfrac%7B%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%5Cleft%28r-r_%7Be%20f%20f%7D%5Cright%29%5E%7B2%7D%20%5Cpi%20r%5E%7B3%7D%20n%28r%29%20d%20r%7D%7Br_%7Be%20f%20f%7D%5E%7B2%7D%20%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%20%5Cpi%20r%5E%7B2%7D%20n%28r%29%20d%20r%7D)
 
 #### b. Trajectoire
-  Les particules composant les anneaux suivent une trajectoire quasi-circulaire sous l’action d’une force gravitationnelle exercée par saturne. Ainsi on peut modéliser leurs trajectoires de la façon suivante : On considère une particule de l’anneau de masse m. Bilan des forces extérieurs exercées sur cette particule : $$\vec{F_G}=-\frac{GM_sm}{r^2}\vec{u_r}
-\ avec\ M_{S\ }la\ masse\ de\ saturne\ ,\ G\ la\ constante\ gravitationnelle\  et\ r\ la\ distance\ entre\ la\ particules\ et\ le\ centre\ de\ Saturne$$
+  Les particules composant les anneaux suivent une trajectoire quasi-circulaire sous l’action d’une force gravitationnelle exercée par saturne. Ainsi on peut modéliser leurs trajectoires de la façon suivante : On considère une particule de l’anneau de masse m. Bilan des forces extérieurs exercées sur cette particule : 
+
+![PFD](http://latex.codecogs.com/gif.latex?%5Cvec%7BF_G%7D%3D-%5Cfrac%7BGM_sm%7D%7Br%5E2%7D%5Cvec%7Bu_r%7D%20%5C%5C%20avec%5C%20M_%7BS%5C%20%7Dla%5C%20masse%5C%20de%5C%20saturne%5C%20%2C%5C%20G%5C%20la%5C%20constante%5C%20gravitationnelle%5C%20et%5C%20r%5C%20la%5C%20distance%5C%20entre%5C%20la%5C%20particules%5C%20et%5C%20le%5C%20centre%5C%20de%5C%20Saturne)
+
 Ainsi d’après le principe fondamental de la dynamique :
-$$\sum F_{ext}=m\vec{a}
-\vec{a}=-\frac{v^2}{r}\vec{u_r}+\frac{dv}{dt}\vec{u_T}\ dans\ la\ base\ de\ frenet$$
-Donc (projection sur ur) :$$\frac{-GM_sm}{r^2}=-m\frac{v^2}{r}
-\frac{v^2}{r}=\frac{GM_s}{r^2}\leftrightarrow v=\sqrt{\frac{GM_s}{r}}\ T=\frac{2\pi r}{v}=2\pi\sqrt{\frac{r^3}{GM_S}}\ \ \omega=\frac{2\pi}{T}\ \ $$
+
+![PFD suite](http://latex.codecogs.com/gif.latex?%5Csum%20F_%7Bext%7D%3Dm%5Cvec%7Ba%7D%20%5Cvec%7Ba%7D%3D-%5Cfrac%7Bv%5E2%7D%7Br%7D%5Cvec%7Bu_r%7D&plus;%5Cfrac%7Bdv%7D%7Bdt%7D%5Cvec%7Bu_T%7D%20%5C%20dans%5C%20la%5C%20base%5C%20de%5C%20frenet%20%5C%20%5C%5C%20%5C%5C%20Donc%20%5C%20%28projection%20%5C%20sur%20%5C%20ur%29%20%3A%5C%5C%20%5C%5C%20%5Cfrac%7B-GM_sm%7D%7Br%5E2%7D%3D-m%5Cfrac%7Bv%5E2%7D%7Br%7D%20%5Cfrac%7Bv%5E2%7D%7Br%7D%3D%5Cfrac%7BGM_s%7D%7Br%5E2%7D%20%5C%5C%20%5C%5C%5Cleftrightarrow%20v%3D%5Csqrt%7B%5Cfrac%7BGM_s%7D%7Br%7D%7D%5C%20T%3D%5Cfrac%7B2%5Cpi%20r%7D%7Bv%7D%3D2%5Cpi%5Csqrt%7B%5Cfrac%7Br%5E3%7D%7BGM_S%7D%7D%5C%20%5C%20%5Comega%3D%5Cfrac%7B2%5Cpi%7D%7BT%7D)
+
 
 #### c. Un disque plat (Collisions) : 
 Une planète en rotation, sous l’action des forces centrifuges a une tendance naturelle à s’aplatir. L’aplatissement est le rapport (a - b) / a, où a est le diamètre équatorial, et b le diamètre polaire (0,098). Cet aplatissement provoque la précession des particules des anneaux dans les plans orbitaux. Ce mouvement permet aux particules de rentrer en collision, ce qui réduit leur vitesse relative (choc inélastique), plus particulièrement la vitesse verticale. Ainsi, l’inélasticité des collisions dissipe de l’énergie, ce qui convertit un mouvement tri-dimensionnelle en un mouvement équatorial
