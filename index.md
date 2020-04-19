@@ -63,10 +63,11 @@ Or
 La distribution de taille en loi de puissance : 
 ![loi uniforme](http://latex.codecogs.com/gif.latex?n%5Cleft%28r%5Cright%29%5Cpropto%20r%5E%7B-q%7D)
 
-La valeur de q définit la répartition de la masse.
-q ≤4 : la masse totale des particules réside dans les plus petites particules. 
-3 ≤ q < 4 : la masse totale des particules avec des tailles plus petites qu’une taille de coupure est finie. Le cas q ≈ 3 est la valeur généralement trouvée pour les astéroïdes. 
-2 ≤ q < 3 : la masse totale est déterminée par les plus grandes tailles. La masse par gamme de taille accroît avec l’augmentation de la taille des particules. Les petites particules sont insignifiantes pour la répartition de masse.
+La valeur de q définit la répartition de la masse:
+- q ≤4 : la masse totale des particules réside dans les plus petites particules. 
+- 3 ≤ q < 4 : la masse totale des particules avec des tailles plus petites qu’une taille de coupure est finie. Le cas q ≈ 3 est la valeur généralement trouvée pour les astéroïdes. 
+- 2 ≤ q < 3 : la masse totale est déterminée par les plus grandes tailles. La masse par gamme de taille accroît avec l’augmentation de la taille des particules. Les petites particules sont insignifiantes pour la répartition de masse.
+
 $$n\left(x\right)=N_0x^\mue^{\left(-\mathrm{\Lambda}x^\gamma\right)}$$
 Il s’agit donc d’un modèle à quatre paramètres pour n(x), avec µ, $\mathrm{\Lambda}$, et 𝛾 contrôlant la forme de la distribution et $N_0\$ contrôlant la mise à l’échelle globale.
 La distribution gamma à trois paramètres plus généraux, qui résulte du réglage 𝛾 = 1, est largement utilisée pour les précipitations de particules de glace :
