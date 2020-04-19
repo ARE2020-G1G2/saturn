@@ -58,7 +58,7 @@ Or
 #### a. Distribution des tailles de particules
   Distribution de taille uniforme, c’est-à-dire suit une loi uniforme tel que :
 
-![loi uniforme1](http://latex.codecogs.com/gif.latex?n%28r%29%3D%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%201%20%5C%20quand%20%5C%20r%3Dr_%7Beff%7D%20%5Cequiv%20%5Cfrac%7B%5Cint%20%5Cpi%20r%5E%7B3%7Dn%28r%29dr%7D%7B%5Cint%20%5Cpi%20r%5E%7B2%7Dn%28r%29dr%7D%20%5C%5C%200%20%5C%20sinon%20%5C%20%5Cend%7Bmatrix%7D%5Cright)
+![loi uniforme1](http://latex.codecogs.com/gif.latex?n%28r%29%3D%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%201%20%5C%20quand%20%5C%20r%3Dr_%7Beff%7D%20%5Cequiv%20%5Cfrac%7B%5Cint%20%5Cpi%20r%5E%7B3%7Dn%28r%29dr%7D%7B%5Cint%20%5Cpi%20r%5E%7B2%7Dn%28r%29dr%7D%20%5C%5C%200%20%5C%20sinon%20%5C%20%5Cend%7Bmatrix%7D%5Cright.)
 
 La distribution de taille en loi de puissance : $$n\left(r\right)\propto r^{-q}$$
 La valeur de q définit la répartition de la masse 
