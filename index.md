@@ -107,21 +107,26 @@ En effet, les collisions que subissent les particules entraîne l’extension ra
 Une orbite elliptique peut se définir dans l’espace selon six paramètres permettant de calculer précisément la trajectoire complète. Deux de ces paramètres sont l’excentricité et le demi-grand axe a, définissent la trajectoire dans un plan. Ensuite nous avons l’inclinaison i, la longitude du nœud ascendant Ω et l’argument du péricentre ω définissent l’orientation du plan dans l’espace et enfin il y a, la longitude du péricentre ![omega](http://latex.codecogs.com/gif.latex?%5Cwidetilde%7B%5Comega%7D) = Ω + ω qui définit la position du corps. Dans le cas d’une orbite circulaire, l’excentricité est nulle et le demi-grand axe a est égal au demi-petit axe ![valeur de b](http://latex.codecogs.com/gif.latex?b%3D%5Csqrt%7Ba%5E2%5Cleft%281-e%5E2%5Cright%29%7D). Dans le cas d’une orbite excentrique et inclinée par rapport à un plan de référence, on définit un repère de référence R0 = (O, i0, j0, k0), un repère fixe lié à l’orbite R= (O, u0, v0, k0) et un repère mobile (n, u, k). Pour passer de R à R0 on utilise les angles d’Euler : Ω, i et ω. Ω est la longitude du nœud ascendant, soit l’angle de rotation mesuré autour de k0 entre i0 et n, l’inclinaison i est l’angle de rotation mesuré autour de n entre k0 et k ; enfin l’argument au péricentre ω représente l’angle de rotation mesuré autour de k entre n et u0.
 	Résonance orbitale : Une résonance orbitale, en astronomie, a lieu lorsque deux objets orbitant autour d'un troisième ont des périodes de révolution dont le rapport est une fraction entière simple. Cela a pour conséquence que l’effet gravitationnel total du satellite est une attraction répétée au même point du mouvement orbital. La résonance bloque une région des anneaux sur des orbites dont les périodes ont un rapport de 2 entiers de petites valeurs par rapport à celle du satellite. Nous allons ici étudier ces résonances :
 	Le mouvement angulaire des particules est ici égale au moyen mouvement (cas képlérien) :
+
 ![mouvement angulaire](http://latex.codecogs.com/gif.latex?%5Cmathrm%7B%5COmega%7D_%7Bp%7D%5Cequiv%20n%3D%5Csqrt%7B%5Cfrac%7BGM_s%7D%7Ba%5E3%7D%7D)
+
 Une orbite inclinée et faiblement excentrique est représentée en termes de petites oscillations autour d’un mouvement angulaire de vitesse angulaire uniforme. 
 Les perturbations tel que l’aplatissement de la planète, conduit à deux oscillations différentes :
 Une oscillation hors du plan avec une fréquence verticale ʋ et oscillation épicyclique dans le plan κ :
+
 ![oscillations](http://latex.codecogs.com/gif.latex?%5C%5C%20%5Cwidetilde%7B%5Comega%7D%3D%5Cmathrm%7B%5COmega%7D&plus;%5Comega%20%5C%5C%20%5C%5C%20%5Ckappa%3Dn-%5Cfrac%7Bd%5Cwidetilde%7B%5Comega%7D%7D%7Bdt%7D%20%5C%5C%20%5C%5C%20v%3Dn-%5Cfrac%7Bd%5Cmathrm%7B%5COmega%7D%7D%7Bdt%7D)
 
 La vitesse angulaire perturbée est d´définie par la vitesse de groupe obtenue à partir du d´développement en série de Fourier du potentiel de perturbation du au satellite. Son expression est la suivante :
-m\mathrm{\Omega}p=mn^\prime+k\kappa^\prime+pv^\prime
+![vitesse angulaire](http://latex.codecogs.com/gif.latex?m%5Cmathrm%7B%5COmega%7D_%7Bp%7D%3Dmn%5E%5Cprime&plus;k%5Ckappa%5E%5Cprime&plus;pv%5E%5Cprime)
+
 où m est un entier positif, k et p sont des entiers arbitraires. Le triplet (n ′, κ ′, ν ‘) caractérise le satellite perturbant et le triplet (n, κ, ν) caractérise une particule de l’anneau.
 La résolution de l’´équation ci-dessus se traduit alors par trois types de résonances :
  – La résonance de corotation où m(n\ -\ Ωp) = 0 
 – Les résonances de Lindblad où m(n\ -\ Ωp) = ±κ
  – Les résonances verticales avec m(n\ -\ Ωp) = ±ν
-la notation générale d’une résonance exige que deux corps en mouvements commensurables satellites sont en résonance (m+k+p) :m si leur mouvement moyen répond à la condition mΩp = mn' +kκ' +pν' où (n ' - κ ' ) est le taux de précession de l’apside (points extrême de l’orbite) du satellite.
- \frac{n}{n\prime}\ \approx\frac{\ m\ +\ k\ +\ p}{m\ -\ 1}\ \ 
+la notation générale d’une résonance exige que deux corps en mouvements commensurables satellites sont en résonance (m+k+p): m si leur mouvement moyen répond à la condition ![vitesse angulaire](http://latex.codecogs.com/gif.latex?m%5Cmathrm%7B%5COmega%7D_%7Bp%7D%3Dmn%5E%5Cprime&plus;k%5Ckappa%5E%5Cprime&plus;pv%5E%5Cprime)où (n ' - κ ' ) est le taux de précession de l’apside (points extrême de l’orbite) du satellite.
+![égalité](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bn%7D%7Bn%5Cprime%7D%5C%20%5Capprox%5Cfrac%7B%5C%20m%5C%20&plus;%5C%20k%5C%20&plus;%5C%20p%7D%7Bm%5C%20-%5C%201%7D)
+
 Lorsque n ≃ κ ≃ ν dans les anneaux, les résonances verticales et de Lindblad ne représentent que quelques pourcents de l’effet global. Quand ν > n > κ à cause de l’effet d’aplatissement de la planète, les résonances verticales sont situées à l’intérieur des résonances de Lindblad. Enfin, les plus fortes résonances sont les cas horizontaux où k = p = 0 et les cas verticaux où k = 0 et p = 1.
 Les résonances de Lindblad conduisent à des ondes spirales de densité, caractérisées par des variations spirales de la densité.
 Les résonances verticales conduisent à des ondes spirales de courbure qui déplacent les particules hors du plan équatorial.
