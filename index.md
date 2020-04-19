@@ -33,7 +33,7 @@ In view of NASA's recent research, we are wondering about the disappearance of S
   
   Forces gravitationnelles :
 
-![force gravitationelle1](http://latex.codecogs.com/gif.latex?F_%7BG_1%7D%3D-%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D)![force gravitationelle2](http://latex.codecogs.com/gif.latex?et%5C%20F_%7BG_2%7D%3D%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D)
+![force gravitationelle1](http://latex.codecogs.com/gif.latex?F_%7BG_1%7D%3D-%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D)![force gravitationelle2](http://latex.codecogs.com/gif.latex?%5C%20et%5C%20F_%7BG_2%7D%3D%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D
   
 $$F_{G_1}=-\frac{GM_sm}{\left(d+r\right)^2}\ et\ F_{G_2}=\frac{GM_sm}{\left(d-r\right)^2}$$
   Accélération d’entraînement :$$\ a=-\omega^2d\ \ $$
