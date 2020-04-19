@@ -68,8 +68,9 @@ La valeur de q définit la répartition de la masse:
 - 3 ≤ q < 4 : la masse totale des particules avec des tailles plus petites qu’une taille de coupure est finie. Le cas q ≈ 3 est la valeur généralement trouvée pour les astéroïdes. 
 - 2 ≤ q < 3 : la masse totale est déterminée par les plus grandes tailles. La masse par gamme de taille accroît avec l’augmentation de la taille des particules. Les petites particules sont insignifiantes pour la répartition de masse.
 
-$$n\left(x\right)=N_0x^\mue^{\left(-\mathrm{\Lambda}x^\gamma\right)}$$
-Il s’agit donc d’un modèle à quatre paramètres pour n(x), avec µ, $\mathrm{\Lambda}$, et 𝛾 contrôlant la forme de la distribution et $N_0\$ contrôlant la mise à l’échelle globale.
+![loi puissance2](http://latex.codecogs.com/gif.latex?n%5Cleft%28x%5Cright%29%3DN_0x%5E%5Cmue%5E%7B%5Cleft%28-%5Cmathrm%7B%5CLambda%7Dx%5E%5Cgamma%5Cright%29%7D)
+
+Il s’agit donc d’un modèle à quatre paramètres pour n(x), avec µ,![lambda](http://latex.codecogs.com/gif.latex?%5Cmathrm%7B%5CLambda%7D), et 𝛾 contrôlant la forme de la distribution et $N_0\$ contrôlant la mise à l’échelle globale.
 La distribution gamma à trois paramètres plus généraux, qui résulte du réglage 𝛾 = 1, est largement utilisée pour les précipitations de particules de glace :
 $n\left(x\right)=N_0x^\mue^{\left(-\mathrm{\Lambda x}\right)}$
 Dans les distributions exponentielles et gamma, N_0et \mathrm{\Lambda} sont souvent connus respectivement sous le nom de paramètres d’interception et de pente ; m est souvent appelé le paramètre de forme. Une formulation alternative couramment utilisée est donnée par Hansen et Travis (1974) :
