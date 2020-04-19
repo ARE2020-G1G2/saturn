@@ -146,6 +146,7 @@ Le champ magnétique de saturne est dipolaire et de symétrie radiale par rappor
 - La gravité;
 - Forces centrifuges : qui agissent pour ramener les grains dans le plan de l'anneau;
 - Forces miroir magnétiques : qui agissent pour ramener les grains dans le plan de l'anneau;
+
 Le plan de l’anneau étant à 1,62 RS (où 1 RS est le rayon équatorial de Saturne 60,268 km), les particules chargées présent à cet endroit sont à l’équilibre, ils sont stationnaires par rapport au champ Magnétiques et ne subissent que les forces gravitationnelles et centrifuges. Cependant, à des distances inférieures à 1,62 RS la gravité domine et accélèrent les grains chargés vers la planète, le grain est instable. De plus, l’équateur magnétique se trouvant au-dessus du plan de l’anneau, on a une composante du champ magnétique qui point vers l’hémisphère sud. Ainsi à des distances radiales inférieures à 1,525 RS les particules ionisées seront attirées vers le sud. A cela s’ajoute le fait que les grains ont également une distribution de vitesse orthogonal au plan de l’anneau qui les poussent vers le sud ou le nord. Néanmoins, elles seront fréquemment tirées vers le sud et seuls les grains à plus grande vitesse pourront s’échapper vers le Nord.
 
 ![vecteur](http://latex.codecogs.com/gif.latex?%5Cvec%7BF%7D%3Dq%5Cvec%7Bv%7D%5Cland%5Cvec%7BB%7D)
