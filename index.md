@@ -30,12 +30,13 @@ In view of NASA's recent research, we are wondering about the disappearance of S
   Il existe encore diverses théories décrivant l’origines de ces anneaux, l’une d’elle formulée par Edouard Roche serait qu’une des lunes de saturne aurait franchi une certaine limite appelé _"Limite de Roche"_, et qui se serait disloquée en milliers de particules de glaces et grâce à sa vitesse d’orbite, les particules forment un disque autour de la planète.
   
   ->**Limite de Roche**: correspond à une distance théorique, lorsqu’un corps orbitant autours d’un deuxième corps, franchi cette limite il sera disloqué sous l’influences des forces de marées supérieur à la force de cohésion correspondant à l’interaction gravitationnelle entre les deux corps. Cette limite peut être retrouvée par le calcul pour chaque corps si l’on connait sa masse volumique et sa masse ainsi que celle du corps orbitant :
-  $$\frac{T^{2}}{d^{3}}=\frac{4 \pi^{2}}{G M_{s}}$$
+  $$
+  \frac{T^{2}}{d^{3}}=\frac{4 \pi^{2}}{G M_{s}}
   T=2\pi\sqrt{\frac{d^2}{GM_s}}
-  \omega=\frac{2 \pi}{T}=\sqrt{\frac{G M_{s}}{d^{3}}}
-  Forces gravitationnelles : F_{G_1}=-\frac{GM_sm}{\left(d+r\right)^2}\ et\ F_{G_2}=\frac{GM_sm}{\left(d-r\right)^2}
-  Accélération d’entraînement :\ a=-\omega^2d\ \ 
-Forces inertielles :\ F_{I1/I2}=m\omega^2\left(d\pm r\right)
+  \omega=\frac{2 \pi}{T}=\sqrt{\frac{G M_{s}}{d^{3}}}$$
+  Forces gravitationnelles : $$F_{G_1}=-\frac{GM_sm}{\left(d+r\right)^2}\ et\ F_{G_2}=\frac{GM_sm}{\left(d-r\right)^2}$$
+  Accélération d’entraînement :$$\ a=-\omega^2d\ \ $$
+Forces inertielles :$$\ F_{I1/I2}=m\omega^2\left(d\pm r\right)
 F_1=F_{G1}+F_{I1}\ et\ F_2=F_{G2}+F_{I2}\ 
 \delta F=F_2-F_1=-GM_sm\left[\frac{1}{\left(d-r\right)^2}-\frac{-1}{\left(d+r\right)^2}\right]+m\omega^2\left(d-r-d-r\right)
 =\frac{-GMm}{d^2}\left[\left(1-\frac{r}{d}\right)^{-2}-\left(1+\frac{r}{d}\right)^{-2}\right]-2m\omega^2r
@@ -46,35 +47,35 @@ force\ de\ cohésion:Fcohr=-Gm24r2=δF→-Gm24r2=-6GMmrdR3
 d_R^3=\frac{24r^3M}{m}
 d_R=2,9r\left(\frac{M}{m}\right)^\sfrac{1}{3}or\ m=\rho V_m\ et\ M=\rho_MV_M\ et V=\frac{4}{3}\pi R^3\ donc\ m=\frac{4}{3}\pi r^3\rho\ 
 et\ M_s=\frac{4}{3}R^3\rho_{Ms}
-\ ainsi\ d_R=2,9R\left(\frac{\rho}{\rho_{Ms}}\right)
+\ ainsi\ d_R=2,9R\left(\frac{\rho}{\rho_{Ms}}\right)$$
 
 ### II. Structures et caractéristiques des anneaux
   Il existes 7 anneaux observés orbitant autour de Saturne, nommées A, B, C, D, E, F, G. Attention, les anneaux ne sont pas placés selon l’ordre alphabétique. Ils sont composés majoritairement de particule de glace de tailles différentes allant de quelques millimètres à quelques dizaines de mètres, distribuer approximativement selon une loi de l’inverse d’une puissance cubique.
 #### a. Distribution des tailles de particules
   Distribution de taille uniforme, c’est-à-dire suit une loi uniforme tel que :
-n\left(r\right)=1     quand r =reff≡πr3nrdrπr2nrdr0    sinon
-La distribution de taille en loi de puissance : n\left(r\right)\propto r^{-q}
+$$n\left(r\right)=1     quand r =reff≡πr3nrdrπr2nrdr0    sinon$$
+La distribution de taille en loi de puissance : $$n\left(r\right)\propto r^{-q}$$
 La valeur de q définit la répartition de la masse 
 q ≤4 : la masse totale des particules réside dans les plus petites particules. 
 3 ≤ q < 4 : la masse totale des particules avec des tailles plus petites qu’une taille de coupure est finie. Le cas q ≈ 3 est la valeur généralement trouvée pour les astéroïdes. 
 2 ≤ q < 3 : la masse totale est déterminée par les plus grandes tailles. La masse par gamme de taille accroît avec l’augmentation de la taille des particules. Les petites particules sont insignifiantes pour la répartition de masse.
-n\left(x\right)=N_0x^\mue^{\left(-\mathrm{\Lambda}x^\gamma\right)}
-Il s’agit donc d’un modèle à quatre paramètres pour n(x), avec µ, \mathrm{\Lambda}, et 𝛾 contrôlant la forme de la distribution et N_0\ contrôlant la mise à l’échelle globale.
+$$n\left(x\right)=N_0x^\mue^{\left(-\mathrm{\Lambda}x^\gamma\right)}$$
+Il s’agit donc d’un modèle à quatre paramètres pour n(x), avec µ, $\mathrm{\Lambda}$, et 𝛾 contrôlant la forme de la distribution et $N_0\$ contrôlant la mise à l’échelle globale.
 La distribution gamma à trois paramètres plus généraux, qui résulte du réglage 𝛾 = 1, est largement utilisée pour les précipitations de particules de glace :
-n\left(x\right)=N_0x^\mue^{\left(-\mathrm{\Lambda x}\right)}
+$n\left(x\right)=N_0x^\mue^{\left(-\mathrm{\Lambda x}\right)}$
 Dans les distributions exponentielles et gamma, N_0et \mathrm{\Lambda} sont souvent connus respectivement sous le nom de paramètres d’interception et de pente ; m est souvent appelé le paramètre de forme. Une formulation alternative couramment utilisée est donnée par Hansen et Travis (1974) :
-\mathbit{x}=\mathbit{r},\mathbit{\mu}=\frac{\mathbf{1}-\mathbf{3}\mathbit{v}_{\mathbit{eff}}}{\mathbit{v}_{\mathbit{eff}}}\mathbit{et}\ \mathbit{\Lambda}=\frac{\mathbf{1}}{\mathbit{r}_{\mathbit{e}_{\mathbit{ff}}}\mathbit{\nu}_{\mathbit{eff}}}
+$$\mathbit{x}=\mathbit{r},\mathbit{\mu}=\frac{\mathbf{1}-\mathbf{3}\mathbit{v}_{\mathbit{eff}}}{\mathbit{v}_{\mathbit{eff}}}\mathbit{et}\ \mathbit{\Lambda}=\frac{\mathbf{1}}{\mathbit{r}_{\mathbit{e}_{\mathbit{ff}}}\mathbit{\nu}_{\mathbit{eff}}}
 \ n\left(r\right)dr\ est\ le\ nombre\ de\ particules\ par\ unité d’aire ayant un rayon entre r et r+dr:
-Ainsi \mathbit{n}\left(\mathbit{r}\right)\propto\mathbit{r}^\mathbit{\mu}\mathbf{exp}{\left(\frac{-\mathbit{r}}{\mathbit{r}_{\mathbit{eff}}\mathbit{\nu}_{\mathbit{eff}}}\right)}avec \mathbit{r}_{\mathbit{eff}}\equiv\frac{\int_{\mathbf{0}}^{\infty}{\mathbit{r}^\mathbf{3}\mathbit{n}\left(\mathbit{r}\right)d\mathbit{r}}}{\int_{\mathbf{0}}^{\infty}{\mathbit{r}^\mathbf{2}\mathbit{n}\left(\mathbit{r}\right)d\mathbit{r}}}\ \mathbit{et}\ {\mathbit{variance}\ \mathbit{effective}\∶\mathbit{\nu}}_{\mathbit{eff}}\equiv\frac{\int_{\mathbf{0}}^{\infty}{\left(\mathbit{r}-\mathbit{r}_{\mathbit{eff}}\right)^\mathbf{2}{\mathbit{\pi r}}^\mathbf{3}\mathbit{n}\left(\mathbit{r}\right)d\mathbit{r}}}{{\mathbit{r}_{\mathbit{eff}}}^\mathbf{2}\int_{\mathbf{0}}^{\infty}{\mathbit{\pi}\mathbit{r}^\mathbf{2}\mathbit{n}\left(\mathbit{r}\right)d\mathbit{r}}} 
+Ainsi \mathbit{n}\left(\mathbit{r}\right)\propto\mathbit{r}^\mathbit{\mu}\mathbf{exp}{\left(\frac{-\mathbit{r}}{\mathbit{r}_{\mathbit{eff}}\mathbit{\nu}_{\mathbit{eff}}}\right)}avec \mathbit{r}_{\mathbit{eff}}\equiv\frac{\int_{\mathbf{0}}^{\infty}{\mathbit{r}^\mathbf{3}\mathbit{n}\left(\mathbit{r}\right)d\mathbit{r}}}{\int_{\mathbf{0}}^{\infty}{\mathbit{r}^\mathbf{2}\mathbit{n}\left(\mathbit{r}\right)d\mathbit{r}}}\ \mathbit{et}\ {\mathbit{variance}\ \mathbit{effective}\∶\mathbit{\nu}}_{\mathbit{eff}}\equiv\frac{\int_{\mathbf{0}}^{\infty}{\left(\mathbit{r}-\mathbit{r}_{\mathbit{eff}}\right)^\mathbf{2}{\mathbit{\pi r}}^\mathbf{3}\mathbit{n}\left(\mathbit{r}\right)d\mathbit{r}}}{{\mathbit{r}_{\mathbit{eff}}}^\mathbf{2}\int_{\mathbf{0}}^{\infty}{\mathbit{\pi}\mathbit{r}^\mathbf{2}\mathbit{n}\left(\mathbit{r}\right)d\mathbit{r}}}$$ 
 
 #### b. Trajectoire
-  Les particules composant les anneaux suivent une trajectoire quasi-circulaire sous l’action d’une force gravitationnelle exercée par saturne. Ainsi on peut modéliser leurs trajectoires de la façon suivante : On considère une particule de l’anneau de masse m. Bilan des forces extérieurs exercées sur cette particule : \vec{F_G}=-\frac{GM_sm}{r^2}\vec{u_r}
-\ avec\ M_{S\ }la\ masse\ de\ saturne\ ,\ G\ la\ constante\ gravitationnelle\  et\ r\ la\ distance\ entre\ la\ particules\ et\ le\ centre\ de\ Saturne
+  Les particules composant les anneaux suivent une trajectoire quasi-circulaire sous l’action d’une force gravitationnelle exercée par saturne. Ainsi on peut modéliser leurs trajectoires de la façon suivante : On considère une particule de l’anneau de masse m. Bilan des forces extérieurs exercées sur cette particule : $$\vec{F_G}=-\frac{GM_sm}{r^2}\vec{u_r}
+\ avec\ M_{S\ }la\ masse\ de\ saturne\ ,\ G\ la\ constante\ gravitationnelle\  et\ r\ la\ distance\ entre\ la\ particules\ et\ le\ centre\ de\ Saturne$$
 Ainsi d’après le principe fondamental de la dynamique :
-\sum F_{ext}=m\vec{a}
-\vec{a}=-\frac{v^2}{r}\vec{u_r}+\frac{dv}{dt}\vec{u_T}\ dans\ la\ base\ de\ frenet
-Donc (projection sur ur) :\frac{-GM_sm}{r^2}=-m\frac{v^2}{r}
-\frac{v^2}{r}=\frac{GM_s}{r^2}\leftrightarrow v=\sqrt{\frac{GM_s}{r}}\ T=\frac{2\pi r}{v}=2\pi\sqrt{\frac{r^3}{GM_S}}\ \ \omega=\frac{2\pi}{T}\ \ 
+$$\sum F_{ext}=m\vec{a}
+\vec{a}=-\frac{v^2}{r}\vec{u_r}+\frac{dv}{dt}\vec{u_T}\ dans\ la\ base\ de\ frenet$$
+Donc (projection sur ur) :$$\frac{-GM_sm}{r^2}=-m\frac{v^2}{r}
+\frac{v^2}{r}=\frac{GM_s}{r^2}\leftrightarrow v=\sqrt{\frac{GM_s}{r}}\ T=\frac{2\pi r}{v}=2\pi\sqrt{\frac{r^3}{GM_S}}\ \ \omega=\frac{2\pi}{T}\ \ $$
 
 #### c. Un disque plat (Collisions) : 
 Une planète en rotation, sous l’action des forces centrifuges a une tendance naturelle à s’aplatir. L’aplatissement est le rapport (a - b) / a, où a est le diamètre équatorial, et b le diamètre polaire (0,098). Cet aplatissement provoque la précession des particules des anneaux dans les plans orbitaux. Ce mouvement permet aux particules de rentrer en collision, ce qui réduit leur vitesse relative (choc inélastique), plus particulièrement la vitesse verticale. Ainsi, l’inélasticité des collisions dissipe de l’énergie, ce qui convertit un mouvement tri-dimensionnelle en un mouvement équatorial
