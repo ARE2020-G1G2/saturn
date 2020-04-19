@@ -30,8 +30,11 @@ In view of NASA's recent research, we are wondering about the disappearance of S
   Il existe encore diverses théories décrivant l’origines de ces anneaux, l’une d’elle formulée par Edouard Roche serait qu’une des lunes de saturne aurait franchi une certaine limite appelé _"Limite de Roche"_, et qui se serait disloquée en milliers de particules de glaces et grâce à sa vitesse d’orbite, les particules forment un disque autour de la planète.
   
   ->**Limite de Roche**: correspond à une distance théorique, lorsqu’un corps orbitant autours d’un deuxième corps, franchi cette limite il sera disloqué sous l’influences des forces de marées supérieur à la force de cohésion correspondant à l’interaction gravitationnelle entre les deux corps. Cette limite peut être retrouvée par le calcul pour chaque corps si l’on connait sa masse volumique et sa masse ainsi que celle du corps orbitant :
-  $\frac{T^{2}}{d^{3}}$=$\frac{4 \pi^{2}}{G M_{s}}$
+  \begin{equation*}
+  \frac{T^{2}}{d^{3}}=\frac{4 \pi^{2}}{G M_{s}}
   T=2\pi\sqrt{\frac{d^2}{GM_s}}
+  \end{equation*}
+  
   \omega=\frac{2 \pi}{T}=\sqrt{\frac{G M_{s}}{d^{3}}}$$
   Forces gravitationnelles : $$F_{G_1}=-\frac{GM_sm}{\left(d+r\right)^2}\ et\ F_{G_2}=\frac{GM_sm}{\left(d-r\right)^2}$$
   Accélération d’entraînement :$$\ a=-\omega^2d\ \ $$
