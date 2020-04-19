@@ -30,8 +30,10 @@ In view of NASA's recent research, we are wondering about the disappearance of S
   Il existe encore diverses théories décrivant l’origines de ces anneaux, l’une d’elle formulée par Edouard Roche serait qu’une des lunes de saturne aurait franchi une certaine limite appelé _"Limite de Roche"_, et qui se serait disloquée en milliers de particules de glaces et grâce à sa vitesse d’orbite, les particules forment un disque autour de la planète.
   
   ->**Limite de Roche**: correspond à une distance théorique, lorsqu’un corps orbitant autours d’un deuxième corps, franchi cette limite il sera disloqué sous l’influences des forces de marées supérieur à la force de cohésion correspondant à l’interaction gravitationnelle entre les deux corps. Cette limite peut être retrouvée par le calcul pour chaque corps si l’on connait sa masse volumique et sa masse ainsi que celle du corps orbitant :![equation 1](http://latex.codecogs.com/svg.latex?%5Cfrac%7BT%5E%7B2%7D%7D%7Bd%5E%7B3%7D%7D%3D%20%5Cfrac%7B4%5Cpi%20%7D%7BGMs%7D%5Crightarrow%20T%3D2%5Cpi%5Csqrt%7B%5Cfrac%7Bd%5E%7B2%7D%7D%7BGMs%7D%7D%5Crightarrow%20%5Comega%3D%5Cfrac%7B2%5Cpi%7D%7BT%7D%3D%5Csqrt%7B%5Cfrac%7BGMs%7D%7Bd%5E%7B3%7D%7D%7D)  
-  \omega=\frac{2 \pi}{T}=\sqrt{\frac{G M_{s}}{d^{3}}}$$
-  Forces gravitationnelles : $$F_{G_1}=-\frac{GM_sm}{\left(d+r\right)^2}\ et\ F_{G_2}=\frac{GM_sm}{\left(d-r\right)^2}$$
+  
+  Forces gravitationnelles :![force gravitationelle1](http://latex.codecogs.com/gif.latex?F_%7BG_1%7D%3D-%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D) \ et\ ![force gravitationelle2](http://latex.codecogs.com/gif.latex?F_%7BG_2%7D%3D%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D)
+  
+$$F_{G_1}=-\frac{GM_sm}{\left(d+r\right)^2}\ et\ F_{G_2}=\frac{GM_sm}{\left(d-r\right)^2}$$
   Accélération d’entraînement :$$\ a=-\omega^2d\ \ $$
 Forces inertielles :$$\ F_{I1/I2}=m\omega^2\left(d\pm r\right)
 F_1=F_{G1}+F_{I1}\ et\ F_2=F_{G2}+F_{I2}\ 
