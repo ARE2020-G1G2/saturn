@@ -88,7 +88,7 @@ Ainsi
 #### b. Trajectoire
   Les particules composant les anneaux suivent une trajectoire quasi-circulaire sous l’action d’une force gravitationnelle exercée par saturne. Ainsi on peut modéliser leurs trajectoires de la façon suivante : On considère une particule de l’anneau de masse m. Bilan des forces extérieurs exercées sur cette particule : 
 
-![PFD](http://latex.codecogs.com/gif.latex?%5Cvec%7BF_G%7D%3D-%5Cfrac%7BGM_sm%7D%7Br%5E2%7D%5Cvec%7Bu_r%7D%20%5C%5C%20avec%5C%20M_%7BS%5C%20%7Dla%5C%20masse%5C%20de%5C%20saturne%5C%20%2C%5C%20G%5C%20la%5C%20constante%5C%20gravitationnelle%5C%20et%5C%20r%5C%20la%5C%20distance%5C%20entre%5C%20la%5C%20particules%5C%20et%5C%20le%5C%20centre%5C%20de%5C%20Saturne)
+![PFD](http://latex.codecogs.com/gif.latex?%5Cvec%7BF_%7BG%7D%7D%3D-%5Cfrac%7BGM_%7Bs%7Dm%7D%7Br%5E%7B2%7D%7D%5Cvec%7Bu_%7Br%7D%7D%5C%5C%20%5C%5C%20avec%20%5C%20M_%7Bs%7D%20%5C%20la%20%5C%20masse%20%5C%20de%20%5C%20Saturne%2C%20G%20%5C%20la%5C%20constante%20%5C%20de%20%5C%20gravitationnelle%20%5C%5C%20et%20%5C%20r%20%5C%20la%20distance%20%5C%20entre%20%5C%20la%20%5C%20particule%20%5C%20et%20%5C%20le%20%5C%20centre%20%5C%20de%20%5C%20Saturne.)
 
 Ainsi d’après le principe fondamental de la dynamique :
 
