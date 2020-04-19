@@ -57,6 +57,7 @@ Or
   Il existes 7 anneaux observés orbitant autour de Saturne, nommées A, B, C, D, E, F, G. Attention, les anneaux ne sont pas placés selon l’ordre alphabétique. Ils sont composés majoritairement de particule de glace de tailles différentes allant de quelques millimètres à quelques dizaines de mètres, distribuer approximativement selon une loi de l’inverse d’une puissance cubique.
 #### a. Distribution des tailles de particules
   Distribution de taille uniforme, c’est-à-dire suit une loi uniforme tel que :
+
 ![loi uniforme1](http://latex.codecogs.com/gif.latex?n%28r%29%3D%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%201%20%5C%20quand%20%5C%20r%3Dr_%7Beff%7D%20%5Cequiv%20%5Cfrac%7B%5Cint%20%5Cpi%20r%5E%7B3%7Dn%28r%29dr%7D%7B%5Cint%20%5Cpi%20r%5E%7B2%7Dn%28r%29dr%7D%20%5C%5C%200%20%5C%20sinon%20%5C%20%5Cend%7Bmatrix%7D%5Cright)
 
 La distribution de taille en loi de puissance : $$n\left(r\right)\propto r^{-q}$$
