@@ -35,15 +35,11 @@ In view of NASA's recent research, we are wondering about the disappearance of S
 
 ![force gravitationelle](http://latex.codecogs.com/gif.latex?F_%7BG_1%7D%3D-%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D%5C%20et%5C%20F_%7BG_2%7D%3D%5Cfrac%7BGM_sm%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D)
   
-  Accélération d’entraînement :![accélération d'entraînement](http://latex.codecogs.com/gif.latex?%5C%20a%3D-%5Comega%5E%7B2%7Dd)
+  Accélération d’entraînement : ![accélération d'entraînement](http://latex.codecogs.com/gif.latex?%5C%20a%3D-%5Comega%5E%7B2%7Dd)
   
-Forces inertielles :$$\ F_{I1/I2}=m\omega^2\left(d\pm r\right)
-F_1=F_{G1}+F_{I1}\ et\ F_2=F_{G2}+F_{I2}\ 
-\delta F=F_2-F_1=-GM_sm\left[\frac{1}{\left(d-r\right)^2}-\frac{-1}{\left(d+r\right)^2}\right]+m\omega^2\left(d-r-d-r\right)
-=\frac{-GMm}{d^2}\left[\left(1-\frac{r}{d}\right)^{-2}-\left(1+\frac{r}{d}\right)^{-2}\right]-2m\omega^2r
-\approx\frac{-GMm}{d}\left[\left(1-2\frac{r}{d}\right)-\left(1+2\frac{r}{d}\right)\right]-2m\omega^2r\ car\ r\ll d\ 
-\approx\frac{-4GMmr}{d^3}-2m\omega^2r\approx\frac{-6GMmr}{d^3}\ car\ \omega^2=\frac{GM}{d^3}
-force\ de\ cohésion:Fcohr=-Gm24r2=δF→-Gm24r2=-6GMmrdR3
+Forces inertielles :![forces inertielles](http://latex.codecogs.com/gif.latex?%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20F_%7BI1/I2%7D%3Dm%5Comega%5E2%5Cleft%28d%5Cpm%20r%5Cright%29%20%5C%5C%20F_1%3DF_%7BG1%7D&plus;F_%7BI1%7D%5C%20et%20%5C%20F_2%3DF_%7BG2%7D&plus;F_%7BI2%7D%5C%5C%20%5Cdelta%20F%3DF_2-F_1%3D-GM_sm%5Cleft%5B%5Cfrac%7B1%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D-%5Cfrac%7B-1%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D%5Cright%5D&plus;m%5Comega%5E2%5Cleft%28d-r-d-r%5Cright%29%20%5C%5C%20%3D%5Cfrac%7B-GMm%7D%7Bd%5E2%7D%5Cleft%5B%5Cleft%281-%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5E%7B-2%7D-%5Cleft%281&plus;%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5E%7B-2%7D%5Cright%5D-2m%5Comega%5E2r%20%5C%5C%20%5Capprox%5Cfrac%7B-GMm%7D%7Bd%7D%5Cleft%5B%5Cleft%281-2%5Cfrac%7Br%7D%7Bd%7D%5Cright%29-%5Cleft%281&plus;2%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5Cright%5D-2m%5Comega%5E2r%5C%20car%5C%20r%5Cll%20d%5C%20%5C%5C%20%5Capprox%5Cfrac%7B-4GMmr%7D%7Bd%5E3%7D-2m%5Comega%5E2r%5Capprox%5Cfrac%7B-6GMmr%7D%7Bd%5E3%7D%5C%20car%5C%20%5Comega%5E2%3D%5Cfrac%7BGM%7D%7Bd%5E3%7D)
+
+force\ de\ cohésion:Fcohr=-Gm24r2=δF→-Gm24r2=-6GMmrdR3) 
 \frac{m}{4r^2}=\frac{6Mr}{d_R^3}
 d_R^3=\frac{24r^3M}{m}
 d_R=2,9r\left(\frac{M}{m}\right)^\sfrac{1}{3}or\ m=\rho V_m\ et\ M=\rho_MV_M\ et V=\frac{4}{3}\pi R^3\ donc\ m=\frac{4}{3}\pi r^3\rho\ 
