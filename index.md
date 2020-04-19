@@ -141,17 +141,19 @@ Les particules composant les anneaux peuvent être chargé par le biais de rayon
 #### b. Champ magnétique et trajectoire des particules
 Le champ magnétique de saturne est dipolaire et de symétrie radiale par rapport à l’axe N-S avec le pôle Nord a l’hémisphère Nord contrairement à la Terre et est générée par un effet dynamo de l’hydrogène métallique liquide. Possède un rayon 580 fois plus grand que celui de la Terre bien que son intensité légèrement plus faible que celle-ci (21 µT).
 3 forces agissent le long d’une ligne de champ magnétique : 
-	La gravité
-	Forces centrifuges : qui agissent pour ramener les grains dans le plan de l'anneau
-	Forces miroir magnétiques : qui agissent pour ramener les grains dans le plan de l'anneau
+-La gravité;
+-Forces centrifuges : qui agissent pour ramener les grains dans le plan de l'anneau;
+-Forces miroir magnétiques : qui agissent pour ramener les grains dans le plan de l'anneau;
 Le plan de l’anneau étant à 1,62 RS (où 1 RS est le rayon équatorial de Saturne 60,268 km), les particules chargées présent à cet endroit sont à l’équilibre, ils sont stationnaires par rapport au champ Magnétiques et ne subissent que les forces gravitationnelles et centrifuges. Cependant, à des distances inférieures à 1,62 RS la gravité domine et accélèrent les grains chargés vers la planète, le grain est instable. De plus, l’équateur magnétique se trouvant au-dessus du plan de l’anneau, on a une composante du champ magnétique qui point vers l’hémisphère sud. Ainsi à des distances radiales inférieures à 1,525 RS les particules ionisées seront attirées vers le sud. A cela s’ajoute le fait que les grains ont également une distribution de vitesse orthogonal au plan de l’anneau qui les poussent vers le sud ou le nord. Néanmoins, elles seront fréquemment tirées vers le sud et seuls les grains à plus grande vitesse pourront s’échapper vers le Nord.
-\vec{F}=q\vec{v}\land\vec{B}
+
+![vecteur](http://latex.codecogs.com/gif.latex?%5Cvec%7BF%7D%3Dq%5Cvec%7Bv%7D%5Cland%5Cvec%7BB%7D)
+
 Equation de maxwell :
-div{\vec{B}}=0\leftrightarrow\frac{\partial B_r}{\partial r}+\frac{\partial B_z}{\partial z}=0
-\leftrightarrow\frac{1}{r}\frac{\partial\left(r\cdot B_r\right)}{\partial r}+\frac{\partial Bz}{\partial z}=0
-\leftrightarrow\frac{\partial\left(rB_r\right)}{\partial r}=-\frac{r\partial Bz}{\partial z}\ avec\ Bz=B_0\left(1+\frac{z^2}{l^2}\right)
-on\ a\∶\frac{\partial\left(rB_r\right)}{\partial r}=-rB_0\frac{2z}{l^2}\rightarrow rB_r=-B_0\frac{2z}{l^2}\frac{r^2}{2}\rightarrow B_r=\frac{-B_0zr}{l^2}\ 
-Bx=-B0zxl2By=-B0zyl2
+
+![equation de maxwell](http://latex.codecogs.com/gif.latex?div%7B%5Cvec%7BB%7D%7D%3D0%5Cleftrightarrow%5Cfrac%7B%5Cpartial%20B_r%7D%7B%5Cpartial%20r%7D&plus;%5Cfrac%7B%5Cpartial%20B_z%7D%7B%5Cpartial%20z%7D%3D0%20%5C%5C%20%5C%5C%20%5Cleftrightarrow%5Cfrac%7B1%7D%7Br%7D%5Cfrac%7B%5Cpartial%5Cleft%28r%5Ccdot%20B_r%5Cright%29%7D%7B%5Cpartial%20r%7D&plus;%5Cfrac%7B%5Cpartial%20Bz%7D%7B%5Cpartial%20z%7D%3D0%20%5C%5C%20%5C%5C%20%5Cleftrightarrow%5Cfrac%7B%5Cpartial%5Cleft%28rB_r%5Cright%29%7D%7B%5Cpartial%20r%7D%3D-%5Cfrac%7Br%5Cpartial%20Bz%7D%7B%5Cpartial%20z%7D%5C%20avec%5C%20Bz%3DB_0%5Cleft%281&plus;%5Cfrac%7Bz%5E2%7D%7Bl%5E2%7D%5Cright%29%20%5C%5C%20%5C%5C%20on%5C%20a%20%3A%20%5Cfrac%7B%5Cpartial%5Cleft%28rB_r%5Cright%29%7D%7B%5Cpartial%20r%7D%3D-rB_0%5Cfrac%7B2z%7D%7Bl%5E2%7D%5Crightarrow%20rB_r%3D-B_0%5Cfrac%7B2z%7D%7Bl%5E2%7D%5Cfrac%7Br%5E2%7D%7B2%7D%5Crightarrow%20B_r%3D%5Cfrac%7B-B_0zr%7D%7Bl%5E2%7D%5C%20%5C%5C%20%5C%5C%20%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%20B_%7Bx%7D%3D-B%5Cfrac%7BB_%7B0%7Dzx%7D%7Bl%5E%7B2%7D%7D%20%5C%5C%20%5C%5C%20B_%7By%7D%3D-B%5Cfrac%7BB_%7B0%7Dzy%7D%7Bl%5E%7B2%7D%7D%20%5Cend%7Bmatrix%7D%5Cright.)
+
+
+
 PFD: mⅆvxdt=qvyBz+qvzBymⅆvyⅆt=-qvxBz-qvzBxmⅆzⅆt=qB0(vxy-vyx)l2
 
 #### c. Pluie des anneaux : 
