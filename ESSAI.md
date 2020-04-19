@@ -1,3 +1,3 @@
 
-  $'f(x) = 0 \iff x = 1'$
+$$\inline p={1\over q}$$
 
