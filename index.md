@@ -39,13 +39,7 @@ In view of NASA's recent research, we are wondering about the disappearance of S
   
 Forces inertielles :![forces inertielles](http://latex.codecogs.com/gif.latex?%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20F_%7BI1/I2%7D%3Dm%5Comega%5E2%5Cleft%28d%5Cpm%20r%5Cright%29%20%5C%5C%20%5C%5C%20F_1%3DF_%7BG1%7D&plus;F_%7BI1%7D%5C%20et%20%5C%20F_2%3DF_%7BG2%7D&plus;F_%7BI2%7D%5C%5C%5C%5C%20%5Cdelta%20F%3DF_2-F_1%3D-GM_sm%5Cleft%5B%5Cfrac%7B1%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D-%5Cfrac%7B-1%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D%5Cright%5D&plus;m%5Comega%5E2%5Cleft%28d-r-d-r%5Cright%29%20%5C%5C%20%5C%5C%20%3D%5Cfrac%7B-GMm%7D%7Bd%5E2%7D%5Cleft%5B%5Cleft%281-%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5E%7B-2%7D-%5Cleft%281&plus;%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5E%7B-2%7D%5Cright%5D-2m%5Comega%5E2r%20%5C%5C%20%5C%5C%20%5Capprox%5Cfrac%7B-GMm%7D%7Bd%7D%5Cleft%5B%5Cleft%281-2%5Cfrac%7Br%7D%7Bd%7D%5Cright%29-%5Cleft%281&plus;2%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5Cright%5D-2m%5Comega%5E2r%5C%20car%5C%20r%5Cll%20d%5C%20%5C%5C%20%5C%5C%20%5Capprox%5Cfrac%7B-4GMmr%7D%7Bd%5E3%7D-2m%5Comega%5E2r%5Capprox%5Cfrac%7B-6GMmr%7D%7Bd%5E3%7D%5C%20car%5C%20%5Comega%5E2%3D%5Cfrac%7BGM%7D%7Bd%5E3%7D)
 
-force\ de\ cohésion:Fcohr=-Gm24r2=δF→-Gm24r2=-6GMmrdR3) 
-\frac{m}{4r^2}=\frac{6Mr}{d_R^3}
-d_R^3=\frac{24r^3M}{m}
-d_R=2,9r\left(\frac{M}{m}\right)^\sfrac{1}{3}or\ m=\rho V_m\ et\ M=\rho_MV_M\ et V=\frac{4}{3}\pi R^3\ donc\ m=\frac{4}{3}\pi r^3\rho\ 
-et\ M_s=\frac{4}{3}R^3\rho_{Ms}
-\ ainsi\ d_R=2,9R\left(\frac{\rho}{\rho_{Ms}}\right)$$
-
+force\ de\ cohésion: ![force de cohésion](http://latex.codecogs.com/gif.latex?F_%7Bcoh%7D%28r%29%3D%5Cfrac%7B-Gm%5E%7B2%7D%7D%7B4r%5E%7B2%7D%7D%3D%20%5Cdelta%20F%20%5Crightarrow%20-%5Cfrac%7BGm%5E%7B2%7D%7D%7B4r%5E%7B2%7D%7D%3D%20-%5Cfrac%7B6GMmr%7D%7Bd_%7BR%7D%5E%7B3%7D%7D%20%5C%5C%20%5C%5C%20d_%7BR%7D%3D%202%2C9r%5Cleft%20%28%20%5Cfrac%7BM%7D%7Bm%7D%20%5Cright%20%29%5E%7B%5Cfrac%7B1%7D%7B3%7D%7D%20%5C%5C%20%5C%5Cor%20%5C%20m%3D%5Crho%20V_%7Bm%7D%20%5C%20et%20%5C%20M%3D%20%5Crho_%7BM%7DV_%7BM%7D%20%5C%20et%20%5C%20V%3D%5Cfrac%7B4%7D%7B3%7D%5Cpi%20R%5E%7B3%7D%20%5C%5C%20%5C%5Cdonc%20%5C%20m%3D%5Cfrac%7B4%7D%7B3%7D%5Cpi%20r%5E%7B3%7D%5Crho%20%5C%20et%5C%20M_%7Bs%7D%3D%5Cfrac%7B4%7D%7B3%7DR%5E%7B3%7D%5Crho_%7BMs%7D%20%5C%5C%20%5C%5C%20ainsi%20%5C%20d_%7BR%7D%3D2%2C9R%5Cleft%20%28%5Cfrac%7B%5Crho%20%7D%7B%5Crho%20_%7BMs%7D%7D%5Cright%20%29)
 ### II. Structures et caractéristiques des anneaux
   Il existes 7 anneaux observés orbitant autour de Saturne, nommées A, B, C, D, E, F, G. Attention, les anneaux ne sont pas placés selon l’ordre alphabétique. Ils sont composés majoritairement de particule de glace de tailles différentes allant de quelques millimètres à quelques dizaines de mètres, distribuer approximativement selon une loi de l’inverse d’une puissance cubique.
 #### a. Distribution des tailles de particules
