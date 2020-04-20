@@ -179,6 +179,6 @@ Où e * est un électron rapide et EUV est un photon ultraviolet extrême du Sol
 
 ## Bibliographie :
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
+**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html#">Framindmap </a> 
 
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
