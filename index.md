@@ -179,7 +179,7 @@ Où e * est un électron rapide et EUV est un photon ultraviolet extrême du Sol
 
 ## Bibliographie :
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html#">Framindmap </a> 
+**CARTE MENTALE:**
 
 ![carte mentale](https://i.imgur.com/WQAfONV.png)
 
