@@ -183,5 +183,31 @@ Où e * est un électron rapide et EUV est un photon ultraviolet extrême du Sol
 
 ![carte mentale](https://i.imgur.com/WQAfONV.png)
 
+[1] Anneaux de Saturne,2020. Wikipédia [en ligne].[consulté le 25 mars 2020]. Disponible à l’adresse: https://fr.wikipedia.org/wiki/Anneaux_de_Saturne.
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+[2] La limite de Roche. L’Observatoire de Paris(UFE)[en ligne].[consulté le 24 mars 2020]. Disponible à l’adresse: https://media4.obspm.fr/public/ressources_lu/pages_effet-de-maree/limite-roche-sexercer.html.
+
+[3] NASA GODDARD, 2018. Saturn’s Rings Are Disappearing [en ligne]. 17 décembre 2018.[ consulté le 25 Mars 2020]. Disponible à l’adresse: https://www.youtube.com/watch?v=mN8o90UbpmE&feature=emb_title.
+
+[4] STEIGERWALD, Bill et JONES, Nancy, 2018. NASA Research Reveals Saturn is Losing Its Rings at « Worst-Case-Scenario » Rate. NASA [en ligne]. 17 décembre 20218 [consulté le 25 Mars 2020]. Disponible à l’adresse: 
+https://www.nasa.gov/press-release/goddard/2018/ring-rain.
+[5] ESPACE DES SCIENCES, 2018. [Stéphane Le Mouélic] Titan et la mission Cassini-Huygens[en ligne]. 28 février 2018. [Consulté le 25 mars 2020]. Disponible à l’adresse :https://www.youtube.com/watch?time_continue=9&v=B4MdvaQ1LuY&feature=emb_title.
+
+[6] REBOUSSIN, Laura, 2012. Structure, Origine et Evolution de la Division de Cassini [en ligne].Rapport de stage M2. Université Paris Sud. [consulté le 25 Mars 2020]. Disponible à l’adresse: http://fototek.geol.u-psud.fr/IMG/pdf/Reboussin_Laura_2011-2012.pdf.
+
+[7] Cassini-Huygens, 2020. Wikipédia [en ligne].[consulté le 25 Mars 2020]. Disponible à l’adresse: 
+
+À finir: 
+https://fr.wikipedia.org/wiki/Cassini-Huygens.
+https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103514004588#f0005#f0005
+https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103518302999
+
+https://tel.archives-ouvertes.fr/file/index/docid/255723/filename/These_Estelle_Deau.pdf
+
+https://femto-physique.fr/mecanique/physique-des-collisions.php#collisions_in%C3%A9lastiques
+https://solarsystem.nasa.gov/news/794/nasa-research-reveals-saturn-is-losing-its-rings-at-worst-case-scenario-rate/
+http://www.astrosurf.com/luxorion/sysol-saturne2.htm
+
+https://journals.ametsoc.org/doi/pdf/10.1175/2011JAS3645.1
+https://fr.wikipedia.org/wiki/Magn%C3%A9tosph%C3%A8re_de_Saturne
+http://web.isen-bretagne.fr/livres/python/ressources/WEB/MiroirMagnetique/MiroirMg.pdf
