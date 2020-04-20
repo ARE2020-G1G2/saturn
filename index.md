@@ -175,7 +175,7 @@ Où e * est un électron rapide et EUV est un photon ultraviolet extrême du Sol
   Facteur du plan de saturne par rapport au soleil : Saturne a période de révolution de 29,4 ans autour du soleil, lors de cette orbite le plan des anneaux est plus ou moins inclinées selon la rotation de saturne autour de son axe Nord Sud. Les anneaux sont alors exposés au soleil à des degrés divers. Ainsi, une exposition variable au rayons UV modifient la quantité de pluie selon les saisons. En effet, parce que l'angle d'ouverture des anneaux était plus grand en 2013, une plus grande partie de la surface de l'anneau est exposée à l'ionisation solaire EUV, donc la production de grains glacés chargés devrait être plus importante.
   
 
-## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+## Lien vers page de blog : <a href="https://github.com/ARE2020-G1G2/saturn/blob/master/blog.md"> C'est ici ! </a>
 
 ## Bibliographie :
 
