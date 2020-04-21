@@ -168,10 +168,15 @@ Les morceaux de glaces sont maintenus en orbite autour de saturne sous l’actio
 ->Taux de pluie :
   Etude de l’ionosphère : lorsque les particules glacées atteignent l’ionosphères, elles se vaporisent et l’eau réagit chimiquement avec l’ionosphère En se basant sur l’effet photoélectrique donc de la photoionisation de l’ionosphère composée de H et H2principalement, les recherches ont prédit une densité volumique d’électrons d’environ 10^5 cm^-3. Cependant, lorsque l’on analysa les signaux radio provenant du Pioneer 11, on observe un pic de densité d’environ 10^4cm^-3 soit un ordre de grandeur inférieur à la prédiction. La plus faible densité d’électron fut observée à une latitude de 36° au nord alors que la plus haute densité est observée à 73° au nord. Cela est contre-intuitive tant donnée que selon les saisons, l’ionisation par les rayons UV su soleil sont maximisée à moyenne voir basse altitude. Cette différence entre théorie et observation peut être expliquée par une production d’eau étranger qui conduit à une réduction de la densité d’électron. Des bandes sombres observée
 La présence de bandes sombres, dans les images de Voyager 2, aux latitudes 44°, 46°, 52°, et 64° montrent cet afflux d’eau provenant des anneaux étant donné que les anneaux sont principalement composés de glace. Ces bandes correspondent dans le plan de l’anneau au distance radiale de 1,525RS, 1,62RS, 1,95RS, 3,95RS, respectivement si on les relie au lignes de champs. H3+, l'un des ions les plus abondants de l'ionosphère de Saturne, est produit dans la chaîne de réaction suivante :
+
 (1)	H2+e* →H2+ + e + e Impact ionisation (aurores), 
+
 (2)	H2+EUV →H2+ + e Photoionisation(lumière du soleil), 
+
 (3)	H++H2(v≥4) →H2+ + H Vibrant excité H2,
+
 (4)	H2+ +H2 →H3+ + H Saut de protons réaction.
+
 Où e * est un électron rapide et EUV est un photon ultraviolet extrême du Soleil.
 
   Facteur du plan de saturne par rapport au soleil : Saturne a période de révolution de 29,4 ans autour du soleil, lors de cette orbite le plan des anneaux est plus ou moins inclinées selon la rotation de saturne autour de son axe Nord Sud. Les anneaux sont alors exposés au soleil à des degrés divers. Ainsi, une exposition variable au rayons UV modifient la quantité de pluie selon les saisons. En effet, parce que l'angle d'ouverture des anneaux était plus grand en 2013, une plus grande partie de la surface de l'anneau est exposée à l'ionisation solaire EUV, donc la production de grains glacés chargés devrait être plus importante.
@@ -193,6 +198,7 @@ Où e * est un électron rapide et EUV est un photon ultraviolet extrême du Sol
 
 [4] STEIGERWALD, Bill et JONES, Nancy, 2018. NASA Research Reveals Saturn is Losing Its Rings at « Worst-Case-Scenario » Rate. NASA [en ligne]. 17 décembre 20218 [consulté le 25 Mars 2020]. Disponible à l’adresse: 
 https://www.nasa.gov/press-release/goddard/2018/ring-rain.
+
 [5] ESPACE DES SCIENCES, 2018. [Stéphane Le Mouélic] Titan et la mission Cassini-Huygens[en ligne]. 28 février 2018. [Consulté le 25 mars 2020]. Disponible à l’adresse :https://www.youtube.com/watch?time_continue=9&v=B4MdvaQ1LuY&feature=emb_title.
 
 [6] REBOUSSIN, Laura, 2012. Structure, Origine et Evolution de la Division de Cassini [en ligne].Rapport de stage M2. Université Paris Sud. [consulté le 25 Mars 2020]. Disponible à l’adresse: http://fototek.geol.u-psud.fr/IMG/pdf/Reboussin_Laura_2011-2012.pdf.
@@ -201,7 +207,9 @@ https://www.nasa.gov/press-release/goddard/2018/ring-rain.
 
 À finir: 
 [8] Cassini-Huygens, 2020. Wikipédia[en ligne].[consulté le 21 avril 2020]. Disponible à l'adresse: https://fr.wikipedia.org/wiki/Cassini-Huygens.
+
 [9] O'DONOGHUE, James, MOORE, Luke, CONNERNEY, Jack, MELIN, Henrik, STALLARD, Tom, MILLER, Steve, H. BAINES, Kevin, 2019. Observations of the chemical and thermal response of ‘ring rain’ on Saturn’s ionosphere[en ligne]. _Icarus_. Avril 2019. Vol. 322, pp. 263. [consulté le 21 avril 2020]. Disponible à l'adresse: https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103518302999
+
 [10] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103514004588#f0005#f0005
 
 [11] DEAU, Estelle, 2008. Les anneaux de Saturne revisités par les images de la sonde spatiale Cassini : Evolution dynamique de l’anneau F et étude photométrique des anneaux principaux[en ligne]. Thèse de doctorat. Université Paris 7 Denis Diderot. [consulté le 25 Mars 2020]. Disponible à l'adresse: https://tel.archives-ouvertes.fr/file/index/docid/255723/filename/These_Estelle_Deau.pdf
@@ -211,5 +219,7 @@ https://www.nasa.gov/press-release/goddard/2018/ring-rain.
 [14] .[consulté le 25 Mars 2020]. Disponible à l'adresse: http://www.astrosurf.com/luxorion/sysol-saturne2.htm
 
 [15] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://journals.ametsoc.org/doi/pdf/10.1175/2011JAS3645.1
+
 [16] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://fr.wikipedia.org/wiki/Magn%C3%A9tosph%C3%A8re_de_Saturne
+
 [17] .[consulté le 25 Mars 2020]. Disponible à l'adresse: http://web.isen-bretagne.fr/livres/python/ressources/WEB/MiroirMagnetique/MiroirMg.pdf
