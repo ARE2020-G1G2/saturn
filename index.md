@@ -37,7 +37,9 @@ In view of NASA's recent research, we are wondering about the disappearance of S
   
  Accélération d’entraînement : ![accélération d'entraînement](http://latex.codecogs.com/gif.latex?%5C%20a%3D-%5Comega%5E%7B2%7Dd)
   
-Forces inertielles :![forces inertielles](http://latex.codecogs.com/gif.latex?%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20F_%7BI1/I2%7D%3Dm%5Comega%5E2%5Cleft%28d%5Cpm%20r%5Cright%29%20%5C%5C%20%5C%5C%20F_1%3DF_%7BG1%7D&plus;F_%7BI1%7D%5C%20et%20%5C%20F_2%3DF_%7BG2%7D&plus;F_%7BI2%7D%5C%5C%5C%5C%20%5Cdelta%20F%3DF_2-F_1%3D-GM_sm%5Cleft%5B%5Cfrac%7B1%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D-%5Cfrac%7B-1%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D%5Cright%5D&plus;m%5Comega%5E2%5Cleft%28d-r-d-r%5Cright%29%20%5C%5C%20%5C%5C%20%3D%5Cfrac%7B-GMm%7D%7Bd%5E2%7D%5Cleft%5B%5Cleft%281-%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5E%7B-2%7D-%5Cleft%281&plus;%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5E%7B-2%7D%5Cright%5D-2m%5Comega%5E2r%20%5C%5C%20%5C%5C%20%5Capprox%5Cfrac%7B-GMm%7D%7Bd%7D%5Cleft%5B%5Cleft%281-2%5Cfrac%7Br%7D%7Bd%7D%5Cright%29-%5Cleft%281&plus;2%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5Cright%5D-2m%5Comega%5E2r%5C%20car%5C%20r%5Cll%20d%5C%20%5C%5C%20%5C%5C%20%5Capprox%5Cfrac%7B-4GMmr%7D%7Bd%5E3%7D-2m%5Comega%5E2r%5Capprox%5Cfrac%7B-6GMmr%7D%7Bd%5E3%7D%5C%20car%5C%20%5Comega%5E2%3D%5Cfrac%7BGM%7D%7Bd%5E3%7D)
+Forces inertielles :
+
+![forces inertielles](http://latex.codecogs.com/gif.latex?%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20F_%7BI1/I2%7D%3Dm%5Comega%5E2%5Cleft%28d%5Cpm%20r%5Cright%29%20%5C%5C%20%5C%5C%20F_1%3DF_%7BG1%7D&plus;F_%7BI1%7D%5C%20et%20%5C%20F_2%3DF_%7BG2%7D&plus;F_%7BI2%7D%5C%5C%5C%5C%20%5Cdelta%20F%3DF_2-F_1%3D-GM_sm%5Cleft%5B%5Cfrac%7B1%7D%7B%5Cleft%28d-r%5Cright%29%5E2%7D-%5Cfrac%7B-1%7D%7B%5Cleft%28d&plus;r%5Cright%29%5E2%7D%5Cright%5D&plus;m%5Comega%5E2%5Cleft%28d-r-d-r%5Cright%29%20%5C%5C%20%5C%5C%20%3D%5Cfrac%7B-GMm%7D%7Bd%5E2%7D%5Cleft%5B%5Cleft%281-%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5E%7B-2%7D-%5Cleft%281&plus;%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5E%7B-2%7D%5Cright%5D-2m%5Comega%5E2r%20%5C%5C%20%5C%5C%20%5Capprox%5Cfrac%7B-GMm%7D%7Bd%7D%5Cleft%5B%5Cleft%281-2%5Cfrac%7Br%7D%7Bd%7D%5Cright%29-%5Cleft%281&plus;2%5Cfrac%7Br%7D%7Bd%7D%5Cright%29%5Cright%5D-2m%5Comega%5E2r%5C%20car%5C%20r%5Cll%20d%5C%20%5C%5C%20%5C%5C%20%5Capprox%5Cfrac%7B-4GMmr%7D%7Bd%5E3%7D-2m%5Comega%5E2r%5Capprox%5Cfrac%7B-6GMmr%7D%7Bd%5E3%7D%5C%20car%5C%20%5Comega%5E2%3D%5Cfrac%7BGM%7D%7Bd%5E3%7D)
 
 Force de cohésion: 
 
@@ -49,7 +51,7 @@ De plus, après quelques recherches, nous obtenons une valeur observée de la di
 
 Elle croît donc avec le rayon et la masse volumique de la planète.
 
-Or 
+Or, si on considère la masse volumique du corps orbitant égale à celle de Saturne:
 
 ![conclusion limite](http://latex.codecogs.com/gif.latex?%5Cleft%20%28%20%5Cfrac%7B%5Crho%20%7D%7B%5Crho_%7BMs%7D%7D%20%5Cright%20%29%20%3D%201%20%5C%5C%20%5C%5C%20donc%20%5C%20d_%7BR%7D%3D2%2C44R)
 
@@ -198,16 +200,16 @@ https://www.nasa.gov/press-release/goddard/2018/ring-rain.
 [7] Cassini-Huygens, 2020. Wikipédia [en ligne].[consulté le 25 Mars 2020]. Disponible à l’adresse: 
 
 À finir: 
-https://fr.wikipedia.org/wiki/Cassini-Huygens.
-https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103514004588#f0005#f0005
-https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103518302999
+[8] Cassini-Huygens, 2020. Wikipédia[en ligne].[consulté le 21 avril 2020]. Disponible à l'adresse: https://fr.wikipedia.org/wiki/Cassini-Huygens.
+[9] O'DONOGHUE, James, MOORE, Luke, CONNERNEY, Jack, MELIN, Henrik, STALLARD, Tom, MILLER, Steve, H. BAINES, Kevin, 2019. Observations of the chemical and thermal response of ‘ring rain’ on Saturn’s ionosphere[en ligne]. _Icarus_. Avril 2019. Vol. 322, pp. 263. [consulté le 21 avril 2020]. Disponible à l'adresse: https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103518302999
+[10] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103514004588#f0005#f0005
 
-https://tel.archives-ouvertes.fr/file/index/docid/255723/filename/These_Estelle_Deau.pdf
+[11] DEAU, Estelle, 2008. Les anneaux de Saturne revisités par les images de la sonde spatiale Cassini : Evolution dynamique de l’anneau F et étude photométrique des anneaux principaux[en ligne]. Thèse de doctorat. Université Paris 7 Denis Diderot. [consulté le 25 Mars 2020]. Disponible à l'adresse: https://tel.archives-ouvertes.fr/file/index/docid/255723/filename/These_Estelle_Deau.pdf
 
-https://femto-physique.fr/mecanique/physique-des-collisions.php#collisions_in%C3%A9lastiques
-https://solarsystem.nasa.gov/news/794/nasa-research-reveals-saturn-is-losing-its-rings-at-worst-case-scenario-rate/
-http://www.astrosurf.com/luxorion/sysol-saturne2.htm
+[12] .[consulté le 25 Mars 2020].Disponible à l'adresse: https://femto-physique.fr/mecanique/physique-des-collisions.php#collisions_in%C3%A9lastiques
+[13] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://solarsystem.nasa.gov/news/794/nasa-research-reveals-saturn-is-losing-its-rings-at-worst-case-scenario-rate/
+[14] .[consulté le 25 Mars 2020]. Disponible à l'adresse: http://www.astrosurf.com/luxorion/sysol-saturne2.htm
 
-https://journals.ametsoc.org/doi/pdf/10.1175/2011JAS3645.1
-https://fr.wikipedia.org/wiki/Magn%C3%A9tosph%C3%A8re_de_Saturne
-http://web.isen-bretagne.fr/livres/python/ressources/WEB/MiroirMagnetique/MiroirMg.pdf
+[15] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://journals.ametsoc.org/doi/pdf/10.1175/2011JAS3645.1
+[16] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://fr.wikipedia.org/wiki/Magn%C3%A9tosph%C3%A8re_de_Saturne
+[17] .[consulté le 25 Mars 2020]. Disponible à l'adresse: http://web.isen-bretagne.fr/livres/python/ressources/WEB/MiroirMagnetique/MiroirMg.pdf
