@@ -202,24 +202,23 @@ https://www.nasa.gov/press-release/goddard/2018/ring-rain.
 [5] ESPACE DES SCIENCES, 2018. [Stéphane Le Mouélic] Titan et la mission Cassini-Huygens[en ligne]. 28 février 2018. [Consulté le 25 mars 2020]. Disponible à l’adresse :https://www.youtube.com/watch?time_continue=9&v=B4MdvaQ1LuY&feature=emb_title.
 
 [6] REBOUSSIN, Laura, 2012. Structure, Origine et Evolution de la Division de Cassini [en ligne].Rapport de stage M2. Université Paris Sud. [consulté le 25 Mars 2020]. Disponible à l’adresse: http://fototek.geol.u-psud.fr/IMG/pdf/Reboussin_Laura_2011-2012.pdf.
+  
+[7] Cassini-Huygens, 2020. _Wikipédia_[en ligne].[consulté le 21 avril 2020]. Disponible à l'adresse: https://fr.wikipedia.org/wiki/Cassini-Huygens.
 
-[7] Cassini-Huygens, 2020. Wikipédia [en ligne].[consulté le 25 Mars 2020]. Disponible à l’adresse: 
+[8] O'DONOGHUE, James, MOORE, Luke, CONNERNEY, Jack, MELIN, Henrik, STALLARD, Tom, MILLER, Steve, H. BAINES, Kevin, 2019. Observations of the chemical and thermal response of ‘ring rain’ on Saturn’s ionosphere[en ligne]. _Icarus_. Avril 2019. Vol. 322, pp. 263. [consulté le 21 avril 2020]. Disponible à l'adresse: https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103518302999
 
-À finir: 
-[8] Cassini-Huygens, 2020. Wikipédia[en ligne].[consulté le 21 avril 2020]. Disponible à l'adresse: https://fr.wikipedia.org/wiki/Cassini-Huygens.
+[9] MOORE L., O’DONOGHUE J., MÜLLER-WODARG I., GALAND M., MENDILLO M, 2015. Saturn ring rain: Model estimates of water influx into Saturn’s atmosphere [en ligne]. _Icarus_. 1 janvier 2015. Vol.245, pp.355-366. [consulté le 22 avril 2020]. Disponible à l'adresse: https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103514004588#f0005#f0005
 
-[9] O'DONOGHUE, James, MOORE, Luke, CONNERNEY, Jack, MELIN, Henrik, STALLARD, Tom, MILLER, Steve, H. BAINES, Kevin, 2019. Observations of the chemical and thermal response of ‘ring rain’ on Saturn’s ionosphere[en ligne]. _Icarus_. Avril 2019. Vol. 322, pp. 263. [consulté le 21 avril 2020]. Disponible à l'adresse: https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103518302999
+[10] DEAU, Estelle, 2008. Les anneaux de Saturne revisités par les images de la sonde spatiale Cassini : Evolution dynamique de l’anneau F et étude photométrique des anneaux principaux[en ligne]. Thèse de doctorat. Université Paris 7 Denis Diderot. [consulté le 21 avril 2020]. Disponible à l'adresse: https://tel.archives-ouvertes.fr/file/index/docid/255723/filename/These_Estelle_Deau.pdf
 
-[10] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/S0019103514004588#f0005#f0005
+[11] PHYSIQUE DES COLLISIONS. COURS DE MÉCANIQUE CLASSIQUE[en ligne]. Octobre 2019. [consulté le 22 avril 2020].Disponible à l'adresse: https://femto-physique.fr/mecanique/physique-des-collisions.php#collisions_in%C3%A9lastiques
 
-[11] DEAU, Estelle, 2008. Les anneaux de Saturne revisités par les images de la sonde spatiale Cassini : Evolution dynamique de l’anneau F et étude photométrique des anneaux principaux[en ligne]. Thèse de doctorat. Université Paris 7 Denis Diderot. [consulté le 25 Mars 2020]. Disponible à l'adresse: https://tel.archives-ouvertes.fr/file/index/docid/255723/filename/These_Estelle_Deau.pdf
+[12] LUXORION. Saturne, dieu du temps et père de Jupiter[en ligne].[consulté le 22 avril 2020]. Disponible à l'adresse: http://www.astrosurf.com/luxorion/sysol-saturne2.htm
 
-[12] .[consulté le 25 Mars 2020].Disponible à l'adresse: https://femto-physique.fr/mecanique/physique-des-collisions.php#collisions_in%C3%A9lastiques
-[13] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://solarsystem.nasa.gov/news/794/nasa-research-reveals-saturn-is-losing-its-rings-at-worst-case-scenario-rate/
-[14] .[consulté le 25 Mars 2020]. Disponible à l'adresse: http://www.astrosurf.com/luxorion/sysol-saturne2.htm
+[13] GRANT, W. Petty, WEI, Huang, 2011. The Modified Gamma Size Distribution Applied to Inhomogeneous and Nonspherical Particles: Key Relationships and Conversions[en ligne]. _JOURNAL OF THE ATMOSPHERIC SCIENCES_. 5 février 2011. Vol.68, pp.1460-1473. [consulté le 22 avril 2020]. Disponible à l'adresse: https://journals.ametsoc.org/doi/pdf/10.1175/2011JAS3645.1
 
-[15] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://journals.ametsoc.org/doi/pdf/10.1175/2011JAS3645.1
+[14] Magnétosphère de Saturne, 2020. _Wikipédia_[en ligne]. [consulté le 21 avril 2020]. Disponible à l'adresse: https://fr.wikipedia.org/wiki/Magn%C3%A9tosph%C3%A8re_de_Saturne
 
-[16] .[consulté le 25 Mars 2020]. Disponible à l'adresse: https://fr.wikipedia.org/wiki/Magn%C3%A9tosph%C3%A8re_de_Saturne
+[15] KANY, François. TD: Particule dans un champ magnétique; effet de miroir[en ligne]. ISEN-Brest. [consulté le 22 avril 2020]. Disponible à l'adresse: http://web.isen-bretagne.fr/livres/python/ressources/WEB/MiroirMagnetique/MiroirMg.pdf
 
-[17] .[consulté le 25 Mars 2020]. Disponible à l'adresse: http://web.isen-bretagne.fr/livres/python/ressources/WEB/MiroirMagnetique/MiroirMg.pdf
+[16] J. O’Donoghue, T. S. Stallard, H. Melin, G. H. Jones, S. W. H. Cowley, S. Miller, K. H. Baines & J. S. D. Blake, 2013. The domination of Saturn’s low-latitude ionosphere by ring ‘rain’[en ligne]. _Nature_. 10 avril 2013. Vol.496, pp.193–195.[consulté le 21 avril 2020]. Disponible à l'adresse: https://www-nature-com.accesdistant.sorbonne-universite.fr/articles/nature12049#citeas
