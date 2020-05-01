@@ -74,10 +74,22 @@ Nous avons également décidé de solicité un professeur de physique pour la pa
 ## WEEK 9
 _Friday, April 17 2020_
 
-This week, we organized a meeting between Safiya and myself, Carla, to keep moving further in our project. This allowed us to establish several tasks, continue the researches on Safiya's side and code for Carla.
+   This week, we organized a meeting between Safiya and myself, Carla, to keep moving further in our project. This allowed us to establish several tasks, continue the researches on Safiya's side and code for Carla.
 
 The functions to be coded are as follows:
 - function on the Roche limit, which is the distance at which a particle will disintegrate due to the tidal forces of Saturn whose force of attraction exceeds the self-attraction of the particle;
 - the function of UV radiation, because it ejects the electrons present in the particles thus causing their erosions along with a disequilibrium of forces that lead to their attractions toward Saturn's atmosphere.
 
 We also decided to solicit a physics professor for the part of the gaps and the divisions, while Nour on her side tries to understand and code this same part seen in the previous week.
+
+
+
+
+## SEMAINE 10
+_Vendredi 24 Avril 2020_
+
+   Cette semaine, nous avons commencé par une réunion avec nos professeurs. Cette réunion nous a permit de nous donner de nouveaux objectifs répartis entre Safiya et moi-même, Carla.
+Les nouveaux objectifs sont:
+- re-modéliser les collisions, essayer au mieux de faire un mouvement circulaire (comme un anneau autour de Saturne) où les particules bougeraient aléatoirementse heurtant les unes aux autres. Dès qu'une particule en heurte une autre, la particule touchée devient différente (couleur, forme ou bien taille);
+- améliorer les fonctions rayonnement utraviolet et trajectoire en mettant des boules (symbolisant des particules) à la place de ligne;
+-continuer les recherches et le codage sur les lacunes et divison dans les anneaux.
