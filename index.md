@@ -160,6 +160,8 @@ Equation de maxwell :
 
 ![equation de maxwell](http://latex.codecogs.com/gif.latex?div%20%5Cvec%7BB%7D%20%3D%200%5Cleftrightarrow%20%5Cfrac%7B%5Cpartial%20B_%7Br%7D%7D%7B%5Cpartial%20r%7D%20&plus;%5Cfrac%7B%5Cpartial%20B_%7Bz%7D%7D%7B%5Cpartial%20z%7D%3D0%20%5C%5C%20%5C%5C%20%5Cleftrightarrow%20%5Cfrac%7B1%7D%7Br%7D%5Cfrac%7B%5Cpartial%28rB_%7Br%7D%29%7D%7B%5Cpartial%20r%7D%20&plus;%20%5Cfrac%7B%5Cpartial%20B_%7Bz%7D%7D%7B%5Cpartial%20z%7D%3D0%20%5C%5C%20%5C%5C%20%5Cleftrightarrow%20%5Cfrac%7B%5Cpartial%28rB_%7Br%7D%29%7D%7B%5Cpartial%20r%7D%20%3D-%5Cfrac%7Br%5Cpartial%20B_%7Bz%7D%7D%7B%5Cpartial%20z%7D)
 
+![equation de maxwell2](http://latex.codecogs.com/gif.latex?avec%20%5C%20B_%7Bz%7D%3DB_%7B0%7D%281&plus;%5Cfrac%7Bz%5E%7B2%7D%7D%7Bl%5E%7B2%7D%7D%29%20%5C%5C%20%5C%5C%20On%20%5C%20a%20%3A%20%5Cfrac%7B%5Cpartial%28rB_%7Br%7D%29%7D%7B%5Cpartial%20r%7D%20%3D%20-%20rB_%7B0%7D%5Cfrac%7B2z%7D%7Bl%5E%7B2%7D%7D%5Crightarrow%20rB_%7Br%7D%3D-B_%7B0%7D%5Cfrac%7B2z%7D%7Bl%5E%7B2%7D%7D%5Cfrac%7Br%5E%7B2%7D%7D%7B2%7D%5Crightarrow%20B_%7Br%7D%3D%5Cfrac%7B-B_%7B0%7Dzr%7D%7Bl%5E%7B2%7D%7D)
+
 
 PFD: 
 
