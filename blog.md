@@ -93,3 +93,12 @@ Les nouveaux objectifs sont:
 - re-modéliser les collisions, essayer au mieux de faire un mouvement circulaire (comme un anneau autour de Saturne) où les particules bougeraient aléatoirementse heurtant les unes aux autres. Dès qu'une particule en heurte une autre, la particule touchée devient différente (couleur, forme ou bien taille);
 - améliorer les fonctions rayonnement utraviolet et trajectoire en mettant des boules (symbolisant des particules) à la place de ligne;
 - continuer les recherches et le codage sur les lacunes et divison dans les anneaux.
+
+
+## WEEK 10
+_Friday, April 24 2020_
+
+   This week we started with a meeting with our teachers. This meeting allowed us to set new goals shared between Safiya and myself, Carla. The new objectives are:
+- re-model the collisions, try at best to make a circular movement (like a ring around Saturn) where the particles would move randomly colliding with each other. As soon as a particle hits another, the affected particle becomes different (colour, shape or size);
+- improve the ultraviolet radiation and trajectory functions by putting balls (symbolizing particles) instead of a line;
+- continue research and coding on gaps and division in the rings.
