@@ -92,4 +92,4 @@ _Vendredi 24 Avril 2020_
 Les nouveaux objectifs sont:
 - re-modéliser les collisions, essayer au mieux de faire un mouvement circulaire (comme un anneau autour de Saturne) où les particules bougeraient aléatoirementse heurtant les unes aux autres. Dès qu'une particule en heurte une autre, la particule touchée devient différente (couleur, forme ou bien taille);
 - améliorer les fonctions rayonnement utraviolet et trajectoire en mettant des boules (symbolisant des particules) à la place de ligne;
--continuer les recherches et le codage sur les lacunes et divison dans les anneaux.
+- continuer les recherches et le codage sur les lacunes et divison dans les anneaux.
