@@ -167,7 +167,8 @@ Equation de maxwell :
 
 PFD: 
 
-![PDF](http://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%20m%5Cfrac%7Bdv_%7Bx%7D%7D%7Bdt%7D%3Dqv_%7By%7DB_%7Bz%7D%20&plus;qv_%7Bz%7DB_%7By%7D%20%5C%5C%20%5C%5C%20m%5Cfrac%7Bdv_%7By%7D%7D%7Bdt%7D%3D-qv_%7Bx%7DB_%7Bz%7D%20-qv_%7Bz%7DB_%7Bx%7D%20%5C%5C%20%5C%5C%20m%5Cfrac%7Bdv_%7By%7D%7D%7Bdt%7D%3Dq%5Cfrac%7BB_%7B0%7D%28v_%7Bx%7Dy-v_%7By%7Dx%29%7D%7Bl%5E%7B2%7D%7D%20%5Cend%7Bmatrix%7D%5Cright.)
+![PDF](http://latex.codecogs.com/gif.latex?%5C%5C%20m%5Cfrac%7Bdv_%7Bx%7D%7D%7Bdt%7D%3Dqv_%7By%7DB_%7Bz%7D%20&plus;qv_%7Bz%7DB_%7By%7D%20%5C%5C%20%5C%5C%20m%5Cfrac%7Bdv_%7By%7D%7D%7Bdt%7D%3D-qv_%7Bx%7DB_%7Bz%7D%20-qv_%7Bz%7DB_%7Bx%7D%20%5C%5C%20%5C%5C%20m%5Cfrac%7Bdv_%7Bz%7D%7D%7Bdt%7D%3Dq%5Cfrac%7BB_%7B0%7D%28v_%7Bx%7Dy-%20v_%7By%7Dx%29%7D%7Bl%5E%7B2%7D%7D)
+
 
 #### c. Pluie des anneaux : 
 Les morceaux de glaces sont maintenus en orbite autour de saturne sous l’action de force d’attraction qui les attirent à la planète et à leur vitesse orbitale qui les projette vers l’extérieur. Ainsi, lorsque les particules se chargent selon les phénomènes décrit précédemment, elles sont attirées par les lignes de champs magnétiques qui s’incurve vers la planète au niveau des anneaux, l’équilibre qui les maintenait en orbite est alors rompu et les particules sont entrainées dans la haute atmosphère de saturne ce qui réduit la durée des anneaux à environ 100 millions d’années. L’existences de cette pluie nous est connues grâce à l’étude de l’ionosphère de saturne dont l’observation a été possible grâce au Voyager. En effet, on a pu observer de variations particulières dans cette ionosphère, mais également des variations de densité dans les anneaux ainsi que la présence de trois bandes sombres présentes aux latitudes moyenne du nord.
