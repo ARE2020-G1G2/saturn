@@ -109,7 +109,7 @@ _Friday, April 24 2020_
 ## SEMAINE 11
 _Vendredi 1 Mai 2020_
 
-   Cette semaine, nous avons avancé sur nos objectifs fixés la semaine dernière 
+   Cette semaine, nous avons avancé sur nos objectifs fixés la semaine dernière. 
 Les nouveaux objectifs sont:
 - la fonction des collisions: le mouvement aléatoire des particules (avec collision et changement de couleur) est codé mais le mouvement aléatoire circulaire reste plus difficile. C'est pourquoi, nous avons demandé conseil à notre professeur; 
 - le codage des fonctions du rayonnemet au UV et de la trajectoire est fini;
@@ -119,7 +119,7 @@ Les nouveaux objectifs sont:
 ## WEEK 11
 _Friday,May 1st 2020_
 
-   This week we have moved forward on our goals set last week
+   This week we have moved forward on our goals set last week.
 The new objectives are:
 - the function of collisions: the random movement of the particles (with collision and change of color) is coded but the circular random movement remains more difficult. This is why we asked our teacher for advice;
 - the coding of the UV ray and trajectory functions is finished;
