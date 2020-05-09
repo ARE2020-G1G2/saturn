@@ -102,3 +102,25 @@ _Friday, April 24 2020_
 - re-model the collisions, try at best to make a circular movement (like a ring around Saturn) where the particles would move randomly colliding with each other. As soon as a particle hits another, the affected particle becomes different (colour, shape or size);
 - improve the ultraviolet radiation and trajectory functions by putting balls (symbolizing particles) instead of a line;
 - continue research and coding on gaps and division in the rings.
+
+
+
+
+## SEMAINE 11
+_Vendredi 1 Mai 2020_
+
+   Cette semaine, nous avons avancé sur nos objectifs fixés la semaine dernière 
+Les nouveaux objectifs sont:
+- la fonction des collisions: le mouvement aléatoire des particules (avec collision et changement de couleur) est codé mais le mouvement aléatoire circulaire reste plus difficile. C'est pourquoi, nous avons demandé conseil à notre professeur; 
+- le codage des fonctions du rayonnemet au UV et de la trajectoire est fini;
+- Nous continuons toujours les recherches et le codage sur les lacunes et divison dans les anneaux, qui au vu de la difficulté ne reste pas notre priorité. De plus, cette partie n'est pas essentielle au sujet.
+
+
+## WEEK 11
+_Friday,May 1st 2020_
+
+   This week we have moved forward on our goals set last week
+The new objectives are:
+- the function of collisions: the random movement of the particles (with collision and change of color) is coded but the circular random movement remains more difficult. This is why we asked our teacher for advice;
+- the coding of the UV ray and trajectory functions is finished;
+- We are still continuing the research and coding on the gaps and division in the rings, which in view of the difficulty does not remain our priority. In addition, this part is not essential to the subject.
