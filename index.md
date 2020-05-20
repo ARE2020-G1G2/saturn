@@ -35,7 +35,7 @@ In view of NASA's recent research, we are wondering about the disappearance of S
 
 ![equation 1 suite](https://latex.codecogs.com/gif.latex?%5Crightarrow%20T%3D2%20%5Cpi%5Csqrt%7B%5Cfrac%7Bd%5E%7B2%7D%7D%7BGM_%7Bs%7D%7D%7D)
 
-![equation 1 suite](https://latex.codecogs.com/gif.latex?%5Crightarrow%20%5Comega%20%3D%5Cfrac%7B2%20%5Cpi%7D%7BT%7D)
+![equation e](https://latex.codecogs.com/gif.latex?%5Crightarrow%20%5Comega%20%3D%5Cfrac%7B2%20%5Cpi%7D%7BT%7D)
 
 
   Forces gravitationnelles :
